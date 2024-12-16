@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Tajawal:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+body, .cont {
+    font-family: 'Tajawal', sans-serif;
+    background-color: #f4f4f4;
+    text-align: center;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    max-width: 1200px;
+}
+
+.cont {
+    width: calc(100% - 40px);
+}
+
+input {
+    margin: 10px 0;
+    padding: 8px;
+    width: 80%;
+    max-width: 644px;
+}
+
+select {
+    width: 80%;
+    height: 36px;
+    max-width: 667px;
+    margin: 10px 0;
+}
+
+#buttons-container {
+    position: fixed;
+    bottom: 5px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+    margin-top: 20px;
+    width: calc(100% - 10px);
+    max-width: 780px;
+}
+
+button {
+    display: flex; /* لعمل نظام تخطيط داخلي */
+    justify-content: center; /* توسيط أفقي */
+    align-items: center; /* توسيط رأسي */
+
+    min-width: 0; /* يمنع التمدد خارج الحاوية */
+    width: 100%; /* عرض الزر يتبع الشبكة */
+    padding: 10px 20px; /* المساحة الداخلية */
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    text-align: center; /* تأكد من توسيط النص */
+    overflow: hidden; /* يمنع النص من الخروج */
+    white-space: nowrap; /* يمنع النص من الانقسام لأسطر */
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+button#start-test {
+    position: fixed;
+    bottom: 5px;
+    width: calc(100% - 10px);
+    max-width: 780px;
+}
+
+#top-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+#top-buttons button {
+    padding: 15px 30px;
+    font-size: 16px;
+    background-color: #ccc;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    width: 100%;
+}
+
+#top-buttons button.active {
+    background-color: #007bff;
+}
+
+#aya {
+    position: relative;
+    top: 130px;
+    font-size: 24px;
+    font-family: 'Amiri', serif;
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: calc(100% - 40px);
+    max-width: 780px;
+    margin-bottom: 20px;
+}
+
+#surah-name {
+    position: relative;
+    bottom: 30px;
+}
+
+@media (max-width: 400px) {
+    #aya {
+        font-size: 20px;
+    }
+}
