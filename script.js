@@ -32,7 +32,7 @@ function get_randomAyah(data, from_key, to_key, from_index = null, to_index = nu
     let endIndex = keys.indexOf(to_key);
     
     // التحقق من صحة النطاق
-    if (startIndex !== -1 && endIndex !== -1 && startIndex <= endIndex) {
+    if (startIndex !== -1 && endIndex !== -1 && (startIndex < endIndex || (startIndex == endIndex && from_index <= to_index))) {
         // دمج العناصر بين `from_key` و `to_key` مع تحديد مواقعها
         let mergedArray = keys
             .slice(startIndex, endIndex + 1) // احصل على المفاتيح من `from_key` إلى `to_key`
@@ -68,12 +68,6 @@ function startTest() {
 
     let from_ayah = method == "surahs"? null : (method == "ayahs"? parseInt(document.getElementById('ayat-from-ayah').value)-1 : pages[parseInt(document.getElementById('pages-from-page').value)-1]["from_ayah"]);
     let to_ayah = method == "surahs"? null : (method == "ayahs"? parseInt(document.getElementById('ayat-to-ayah').value)-1 : pages[parseInt(document.getElementById('pages-to-page').value)-1]["to_ayah"]);
-
-    // let from_surah = document.querySelector('.soar-method').style.display != 'none'? document.getElementById('start-sorah').value : (document.querySelector('.ayat-method').style.display != 'none'? document.getElementById('ayat-from-surah').value : pages[parseInt(document.getElementById('pages-from-page').value)-1]["from_sura"]);
-    // let to_surah = document.querySelector('.soar-method').style.display != 'none'? document.getElementById('end-sorah').value : (document.querySelector('.ayat-method').style.display != 'none'? document.getElementById('ayat-to-surah').value : pages[parseInt(document.getElementById('pages-to-page').value)-1]["to_sura"]);
-
-    // let from_ayah = document.querySelector('.soar-method').style.display != 'none'? null : (document.querySelector('.ayat-method').style.display != 'none'? parseInt(document.getElementById('ayat-from-ayah').value)-1 : pages[parseInt(document.getElementById('pages-from-page').value)-1]["from_ayah"]);
-    // let to_ayah = document.querySelector('.soar-method').style.display != 'none'? null : (document.querySelector('.ayat-method').style.display != 'none'? parseInt(document.getElementById('ayat-to-ayah').value)-1 : pages[parseInt(document.getElementById('pages-to-page').value)-1]["to_ayah"]);
     
     let randomAyah = get_randomAyah(ayahs, from_surah, to_surah, from_ayah, to_ayah);
     selectedSurah = randomAyah.key;
@@ -102,7 +96,7 @@ function backToStart() {
     document.getElementById('top-buttons').style.display = 'flex';
     document.getElementById('start-test').style.display = 'flex';
     
-    activateMethod('surahs');
+    activateMethod(method);
 }
 
 function displayAyah() {
