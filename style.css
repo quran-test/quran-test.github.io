@@ -98,7 +98,7 @@ button#start-test {
 
 #aya {
     position: relative;
-    top: 130px;
+    top: 80px;
     font-size: 24px;
     font-family: 'Amiri', serif;
     margin-top: 20px;
@@ -113,7 +113,7 @@ button#start-test {
 
 #surah-name {
     position: relative;
-    bottom: 30px;
+    top: 100px;
 }
 
 @media (max-width: 400px) {
