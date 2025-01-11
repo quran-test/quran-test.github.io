@@ -69,7 +69,7 @@ function startTest() {
     let from_ayah = method == "surahs"? null : (method == "ayahs"? parseInt(document.getElementById('ayat-from-ayah').value)-1 : pages[parseInt(document.getElementById('pages-from-page').value)-1]["from_ayah"]);
     let to_ayah = method == "surahs"? null : (method == "ayahs"? parseInt(document.getElementById('ayat-to-ayah').value)-1 : pages[parseInt(document.getElementById('pages-to-page').value)-1]["to_ayah"]);
     
-    let randomAyah = get_randomAyah(ayahs, from_surah, to_surah, from_ayah, to_ayah);
+    let randomAyah = get_randomAyah(ayahs, from_surah, to_surah, from_ayah - 1, to_ayah - 1);
     selectedSurah = randomAyah.key;
     selectedSurahIndex = Object.keys(ayahs).indexOf(selectedSurah);
     currentAyahIndex = randomAyah.index;
