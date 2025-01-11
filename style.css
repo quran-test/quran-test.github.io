@@ -6,6 +6,7 @@ body, .cont {
     background-color: #f4f4f4;
     text-align: center;
     padding: 20px;
+    padding-bottom: 250px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -32,15 +33,26 @@ select {
     margin: 10px 0;
 }
 
-#buttons-container {
+.cont-of-cont {
     position: fixed;
-    bottom: 5px;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background-color: #fff;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+}
+
+#buttons-container {
+    position: relative;
+    bottom: 0;
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 10px;
-    margin-top: 20px;
     width: calc(100% - 10px);
     max-width: 780px;
+    padding: 10px 0 5px;
 }
 
 button {
@@ -78,6 +90,7 @@ button#start-test {
     justify-content: center;
     gap: 10px;
     margin-bottom: 20px;
+    width: 100%;
 }
 
 #top-buttons button {
@@ -89,7 +102,7 @@ button#start-test {
     border-radius: 5px;
     cursor: pointer;
     font-weight: bold;
-    width: 100%;
+    width: 111px;
 }
 
 #top-buttons button.active {
