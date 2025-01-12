@@ -64,8 +64,8 @@ function startTest() {
     let from_surah = method == "surahs"? document.getElementById('start-sorah').value : (method == "ayahs"? document.getElementById('ayat-from-surah').value : pages[parseInt(document.getElementById('pages-from-page').value)-1]["from_sura"]);
     let to_surah = method == "surahs"? document.getElementById('end-sorah').value : (method == "ayahs"? document.getElementById('ayat-to-surah').value : pages[parseInt(document.getElementById('pages-to-page').value)-1]["to_sura"]);
 
-    let from_ayah = method == "surahs"? null : (method == "ayahs"? parseInt(document.getElementById('ayat-from-ayah').value)-1 : pages[parseInt(document.getElementById('pages-from-page').value)-1]["from_ayah"]);
-    let to_ayah = method == "surahs"? null : (method == "ayahs"? parseInt(document.getElementById('ayat-to-ayah').value)-1 : pages[parseInt(document.getElementById('pages-to-page').value)-1]["to_ayah"]);
+    let from_ayah = method == "surahs"? null : (method == "ayahs"? parseInt(document.getElementById('ayat-from-ayah').value) : pages[parseInt(document.getElementById('pages-from-page').value)-1]["from_ayah"]);
+    let to_ayah = method == "surahs"? null : (method == "ayahs"? parseInt(document.getElementById('ayat-to-ayah').value) : pages[parseInt(document.getElementById('pages-to-page').value)-1]["to_ayah"]);
     
     let randomAyah = from_ayah == null || to_ayah == null? get_randomAyah(ayahs, from_surah, to_surah, from_ayah, to_ayah) : get_randomAyah(ayahs, from_surah, to_surah, from_ayah - 1, to_ayah - 1);
     selectedSurah = randomAyah.key;
