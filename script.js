@@ -13,6 +13,26 @@ fetch('./pages.json')
         pages = data;
     });
 
+// تثبيت القيَم
+let storedValues = JSON.parse(localStorage.getItem("select-values"));
+if (!storedValues) { // لو مفيش قيم مخزنة، سجل القيم الافتراضية
+    storedValues = Array.from(document.querySelectorAll("select, input")).map(item => item.value);
+    localStorage.setItem("select-values", JSON.stringify(storedValues));
+} else { // لو فيه قيم مخزنة، هنحدد القيمة في كل قائمة منسدلة
+    document.querySelectorAll("select, input").forEach((item, i) => {
+        item.value = storedValues[i];
+    });
+}
+
+// تغيير القيَم
+document.querySelectorAll("select, input").forEach((selectElement, i) => {
+    selectElement.addEventListener("change", (event) => {
+        let storedValues = JSON.parse(localStorage.getItem("select-values"));
+        storedValues[i] = event.target.value;
+        localStorage.setItem("select-values", JSON.stringify(storedValues));
+    });
+});
+
 function get_randomAyah(data, from_key, to_key, from_index = null, to_index = null) {
     // let data = {
     //     "a": [1, 2, 3, 4],
