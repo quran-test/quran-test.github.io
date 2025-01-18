@@ -32,7 +32,7 @@ select {
     margin: 10px 0;
 }
 
-.cont-of-cont {
+.bottom-buttons {
     position: fixed;
     bottom: 0;
     right: 0;
@@ -40,7 +40,7 @@ select {
     display: flex;
     justify-content: center;
     background-color: #fff;
-    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+    z-index: 12;
 }
 
 #buttons-container {
@@ -120,16 +120,31 @@ button#start-test {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     width: calc(100% - 40px);
     max-width: 780px;
-    margin-bottom: 250px;
+    margin-bottom: 320px;
 }
 
 #surah-name {
-    position: relative;
-    top: 100px;
+    position: fixed;
+    bottom: 97px;
+    width: 100%;
+    right: 0;
+    text-align: right;
+    background-color: #fff;
+    margin: 0;
+    padding: 10px 13px;
+    z-index: 11;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+    max-width: 780px;
 }
 
 @media (max-width: 400px) {
     #aya {
         font-size: 20px;
+    }
+}
+
+@media (min-width: 790px) {
+    #surah-name {
+        padding: 10px calc(13px + (100% - 780px)/2);
     }
 }
