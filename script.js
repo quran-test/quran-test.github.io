@@ -33,6 +33,11 @@ document.querySelectorAll("select, input").forEach((selectElement, i) => {
     });
 });
 
+// تغيير مكان اسم السورة
+document.querySelector('#surah-name').addEventListener('click', function() {
+  this.classList.toggle('left');
+});
+
 function get_randomAyah(data, from_key, to_key, from_index = null, to_index = null) {
     // let data = {
     //     "a": [1, 2, 3, 4],
