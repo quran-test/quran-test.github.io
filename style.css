@@ -126,7 +126,7 @@ button#start-test {
 #surah-name {
     position: fixed;
     bottom: 97px;
-    width: 100%;
+    width: calc(100% - (13px * 2));
     right: 0;
     text-align: right;
     background-color: #fff;
@@ -135,6 +135,7 @@ button#start-test {
     z-index: 11;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
     max-width: 780px;
+    user-select: none;
 }
 
 .left {
@@ -149,6 +150,7 @@ button#start-test {
 
 @media (min-width: 790px) {
     #surah-name {
-        padding: 10px calc(13px + (100% - 780px)/2);
+        width: 764px;
+        padding: 10px calc(13px + (100% - 790px)/2);
     }
 }
