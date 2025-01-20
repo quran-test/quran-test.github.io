@@ -71,6 +71,7 @@ button {
     text-align: center; /* تأكد من توسيط النص */
     overflow: hidden; /* يمنع النص من الخروج */
     white-space: nowrap; /* يمنع النص من الانقسام لأسطر */
+    font-size: 19px;
 }
 
 button:hover {
@@ -125,7 +126,7 @@ button#start-test {
 
 #surah-name {
     position: fixed;
-    bottom: 97px;
+    bottom: 111px;
     width: calc(100% - (13px * 2));
     right: 0;
     text-align: right;
@@ -135,6 +136,7 @@ button#start-test {
     z-index: 11;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
     max-width: 780px;
+    font-size: 20px;
     user-select: none;
 }
 
