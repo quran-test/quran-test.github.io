@@ -1,0 +1,3626 @@
+[
+    {
+        "from_sura": "الفاتحة",
+        "from_ayah": 1,
+        "to_sura": "الفاتحة",
+        "to_ayah": 7
+    },
+    {
+        "from_sura": "البقرة",
+        "from_ayah": 1,
+        "to_sura": "البقرة",
+        "to_ayah": 5
+    },
+    {
+        "from_sura": "البقرة",
+        "from_ayah": 6,
+        "to_sura": "البقرة",
+        "to_ayah": 16
+    },
+    {
+        "from_sura": "البقرة",
+        "from_ayah": 17,
+        "to_sura": "البقرة",
+        "to_ayah": 24
+    },
+    {
+        "from_sura": "البقرة",
+        "from_ayah": 25,
+        "to_sura": "البقرة",
+        "to_ayah": 29
+    },
+    {
+        "from_sura": "البقرة",
+        "from_ayah": 30,
+        "to_sura": "البقرة",
+        "to_ayah": 37
+    },
+    {
+        "from_sura": "البقرة",
+        "from_ayah": 38,
+        "to_sura": "البقرة",
+        "to_ayah": 48
+    },
+    {
+        "from_sura": "البقرة",
+        "from_ayah": 49,
+        "to_sura": "البقرة",
+        "to_ayah": 57
+    },
+    {
+        "from_sura": "البقرة",
+        "from_ayah": 58,
+        "to_sura": "البقرة",
+        "to_ayah": 61
+    },
+    {
+        "from_sura": "البقرة",
+        "from_ayah": 62,
+        "to_sura": "البقرة",
+        "to_ayah": 69
+    },
+    {
+        "from_sura": "البقرة",
+        "from_ayah": 70,
+        "to_sura": "البقرة",
+        "to_ayah": 76
+    },
+    {
+        "from_sura": "البقرة",
+        "from_ayah": 77,
+        "to_sura": "البقرة",
+        "to_ayah": 83
+    },
+    {
+        "from_sura": "البقرة",
+        "from_ayah": 84,
+        "to_sura": "البقرة",
+        "to_ayah": 88
+    },
+    {
+        "from_sura": "البقرة",
+        "from_ayah": 89,
+        "to_sura": "البقرة",
+        "to_ayah": 93
+    },
+    {
+        "from_sura": "البقرة",
+        "from_ayah": 94,
+        "to_sura": "البقرة",
+        "to_ayah": 101
+    },
+    {
+        "from_sura": "البقرة",
+        "from_ayah": 102,
+        "to_sura": "البقرة",
+        "to_ayah": 105
+    },
+    {
+        "from_sura": "البقرة",
+        "from_ayah": 106,
+        "to_sura": "البقرة",
+        "to_ayah": 112
+    },
+    {
+        "from_sura": "البقرة",
+        "from_ayah": 113,
+        "to_sura": "البقرة",
+        "to_ayah": 119
+    },
+    {
+        "from_sura": "البقرة",
+        "from_ayah": 120,
+        "to_sura": "البقرة",
+        "to_ayah": 126
+    },
+    {
+        "from_sura": "البقرة",
+        "from_ayah": 127,
+        "to_sura": "البقرة",
+        "to_ayah": 134
+    },
+    {
+        "from_sura": "البقرة",
+        "from_ayah": 135,
+        "to_sura": "البقرة",
+        "to_ayah": 141
+    },
+    {
+        "from_sura": "البقرة",
+        "from_ayah": 142,
+        "to_sura": "البقرة",
+        "to_ayah": 145
+    },
+    {
+        "from_sura": "البقرة",
+        "from_ayah": 146,
+        "to_sura": "البقرة",
+        "to_ayah": 153
+    },
+    {
+        "from_sura": "البقرة",
+        "from_ayah": 154,
+        "to_sura": "البقرة",
+        "to_ayah": 163
+    },
+    {
+        "from_sura": "البقرة",
+        "from_ayah": 164,
+        "to_sura": "البقرة",
+        "to_ayah": 169
+    },
+    {
+        "from_sura": "البقرة",
+        "from_ayah": 170,
+        "to_sura": "البقرة",
+        "to_ayah": 176
+    },
+    {
+        "from_sura": "البقرة",
+        "from_ayah": 177,
+        "to_sura": "البقرة",
+        "to_ayah": 181
+    },
+    {
+        "from_sura": "البقرة",
+        "from_ayah": 182,
+        "to_sura": "البقرة",
+        "to_ayah": 186
+    },
+    {
+        "from_sura": "البقرة",
+        "from_ayah": 187,
+        "to_sura": "البقرة",
+        "to_ayah": 190
+    },
+    {
+        "from_sura": "البقرة",
+        "from_ayah": 191,
+        "to_sura": "البقرة",
+        "to_ayah": 196
+    },
+    {
+        "from_sura": "البقرة",
+        "from_ayah": 197,
+        "to_sura": "البقرة",
+        "to_ayah": 202
+    },
+    {
+        "from_sura": "البقرة",
+        "from_ayah": 203,
+        "to_sura": "البقرة",
+        "to_ayah": 210
+    },
+    {
+        "from_sura": "البقرة",
+        "from_ayah": 211,
+        "to_sura": "البقرة",
+        "to_ayah": 215
+    },
+    {
+        "from_sura": "البقرة",
+        "from_ayah": 216,
+        "to_sura": "البقرة",
+        "to_ayah": 219
+    },
+    {
+        "from_sura": "البقرة",
+        "from_ayah": 220,
+        "to_sura": "البقرة",
+        "to_ayah": 224
+    },
+    {
+        "from_sura": "البقرة",
+        "from_ayah": 225,
+        "to_sura": "البقرة",
+        "to_ayah": 230
+    },
+    {
+        "from_sura": "البقرة",
+        "from_ayah": 231,
+        "to_sura": "البقرة",
+        "to_ayah": 233
+    },
+    {
+        "from_sura": "البقرة",
+        "from_ayah": 234,
+        "to_sura": "البقرة",
+        "to_ayah": 237
+    },
+    {
+        "from_sura": "البقرة",
+        "from_ayah": 238,
+        "to_sura": "البقرة",
+        "to_ayah": 245
+    },
+    {
+        "from_sura": "البقرة",
+        "from_ayah": 246,
+        "to_sura": "البقرة",
+        "to_ayah": 248
+    },
+    {
+        "from_sura": "البقرة",
+        "from_ayah": 249,
+        "to_sura": "البقرة",
+        "to_ayah": 252
+    },
+    {
+        "from_sura": "البقرة",
+        "from_ayah": 253,
+        "to_sura": "البقرة",
+        "to_ayah": 256
+    },
+    {
+        "from_sura": "البقرة",
+        "from_ayah": 257,
+        "to_sura": "البقرة",
+        "to_ayah": 259
+    },
+    {
+        "from_sura": "البقرة",
+        "from_ayah": 260,
+        "to_sura": "البقرة",
+        "to_ayah": 264
+    },
+    {
+        "from_sura": "البقرة",
+        "from_ayah": 265,
+        "to_sura": "البقرة",
+        "to_ayah": 269
+    },
+    {
+        "from_sura": "البقرة",
+        "from_ayah": 270,
+        "to_sura": "البقرة",
+        "to_ayah": 274
+    },
+    {
+        "from_sura": "البقرة",
+        "from_ayah": 275,
+        "to_sura": "البقرة",
+        "to_ayah": 281
+    },
+    {
+        "from_sura": "البقرة",
+        "from_ayah": 282,
+        "to_sura": "البقرة",
+        "to_ayah": 282
+    },
+    {
+        "from_sura": "البقرة",
+        "from_ayah": 283,
+        "to_sura": "البقرة",
+        "to_ayah": 286
+    },
+    {
+        "from_sura": "آل عمران",
+        "from_ayah": 1,
+        "to_sura": "آل عمران",
+        "to_ayah": 9
+    },
+    {
+        "from_sura": "آل عمران",
+        "from_ayah": 10,
+        "to_sura": "آل عمران",
+        "to_ayah": 15
+    },
+    {
+        "from_sura": "آل عمران",
+        "from_ayah": 16,
+        "to_sura": "آل عمران",
+        "to_ayah": 22
+    },
+    {
+        "from_sura": "آل عمران",
+        "from_ayah": 23,
+        "to_sura": "آل عمران",
+        "to_ayah": 29
+    },
+    {
+        "from_sura": "آل عمران",
+        "from_ayah": 30,
+        "to_sura": "آل عمران",
+        "to_ayah": 37
+    },
+    {
+        "from_sura": "آل عمران",
+        "from_ayah": 38,
+        "to_sura": "آل عمران",
+        "to_ayah": 45
+    },
+    {
+        "from_sura": "آل عمران",
+        "from_ayah": 46,
+        "to_sura": "آل عمران",
+        "to_ayah": 52
+    },
+    {
+        "from_sura": "آل عمران",
+        "from_ayah": 53,
+        "to_sura": "آل عمران",
+        "to_ayah": 61
+    },
+    {
+        "from_sura": "آل عمران",
+        "from_ayah": 62,
+        "to_sura": "آل عمران",
+        "to_ayah": 70
+    },
+    {
+        "from_sura": "آل عمران",
+        "from_ayah": 71,
+        "to_sura": "آل عمران",
+        "to_ayah": 77
+    },
+    {
+        "from_sura": "آل عمران",
+        "from_ayah": 78,
+        "to_sura": "آل عمران",
+        "to_ayah": 83
+    },
+    {
+        "from_sura": "آل عمران",
+        "from_ayah": 84,
+        "to_sura": "آل عمران",
+        "to_ayah": 91
+    },
+    {
+        "from_sura": "آل عمران",
+        "from_ayah": 92,
+        "to_sura": "آل عمران",
+        "to_ayah": 100
+    },
+    {
+        "from_sura": "آل عمران",
+        "from_ayah": 101,
+        "to_sura": "آل عمران",
+        "to_ayah": 108
+    },
+    {
+        "from_sura": "آل عمران",
+        "from_ayah": 109,
+        "to_sura": "آل عمران",
+        "to_ayah": 115
+    },
+    {
+        "from_sura": "آل عمران",
+        "from_ayah": 116,
+        "to_sura": "آل عمران",
+        "to_ayah": 121
+    },
+    {
+        "from_sura": "آل عمران",
+        "from_ayah": 122,
+        "to_sura": "آل عمران",
+        "to_ayah": 132
+    },
+    {
+        "from_sura": "آل عمران",
+        "from_ayah": 133,
+        "to_sura": "آل عمران",
+        "to_ayah": 140
+    },
+    {
+        "from_sura": "آل عمران",
+        "from_ayah": 141,
+        "to_sura": "آل عمران",
+        "to_ayah": 148
+    },
+    {
+        "from_sura": "آل عمران",
+        "from_ayah": 149,
+        "to_sura": "آل عمران",
+        "to_ayah": 153
+    },
+    {
+        "from_sura": "آل عمران",
+        "from_ayah": 154,
+        "to_sura": "آل عمران",
+        "to_ayah": 157
+    },
+    {
+        "from_sura": "آل عمران",
+        "from_ayah": 158,
+        "to_sura": "آل عمران",
+        "to_ayah": 165
+    },
+    {
+        "from_sura": "آل عمران",
+        "from_ayah": 166,
+        "to_sura": "آل عمران",
+        "to_ayah": 173
+    },
+    {
+        "from_sura": "آل عمران",
+        "from_ayah": 174,
+        "to_sura": "آل عمران",
+        "to_ayah": 180
+    },
+    {
+        "from_sura": "آل عمران",
+        "from_ayah": 181,
+        "to_sura": "آل عمران",
+        "to_ayah": 186
+    },
+    {
+        "from_sura": "آل عمران",
+        "from_ayah": 187,
+        "to_sura": "آل عمران",
+        "to_ayah": 194
+    },
+    {
+        "from_sura": "آل عمران",
+        "from_ayah": 195,
+        "to_sura": "آل عمران",
+        "to_ayah": 200
+    },
+    {
+        "from_sura": "النّساء",
+        "from_ayah": 1,
+        "to_sura": "النّساء",
+        "to_ayah": 6
+    },
+    {
+        "from_sura": "النّساء",
+        "from_ayah": 7,
+        "to_sura": "النّساء",
+        "to_ayah": 11
+    },
+    {
+        "from_sura": "النّساء",
+        "from_ayah": 12,
+        "to_sura": "النّساء",
+        "to_ayah": 14
+    },
+    {
+        "from_sura": "النّساء",
+        "from_ayah": 15,
+        "to_sura": "النّساء",
+        "to_ayah": 19
+    },
+    {
+        "from_sura": "النّساء",
+        "from_ayah": 20,
+        "to_sura": "النّساء",
+        "to_ayah": 23
+    },
+    {
+        "from_sura": "النّساء",
+        "from_ayah": 24,
+        "to_sura": "النّساء",
+        "to_ayah": 26
+    },
+    {
+        "from_sura": "النّساء",
+        "from_ayah": 27,
+        "to_sura": "النّساء",
+        "to_ayah": 33
+    },
+    {
+        "from_sura": "النّساء",
+        "from_ayah": 34,
+        "to_sura": "النّساء",
+        "to_ayah": 37
+    },
+    {
+        "from_sura": "النّساء",
+        "from_ayah": 38,
+        "to_sura": "النّساء",
+        "to_ayah": 44
+    },
+    {
+        "from_sura": "النّساء",
+        "from_ayah": 45,
+        "to_sura": "النّساء",
+        "to_ayah": 51
+    },
+    {
+        "from_sura": "النّساء",
+        "from_ayah": 52,
+        "to_sura": "النّساء",
+        "to_ayah": 59
+    },
+    {
+        "from_sura": "النّساء",
+        "from_ayah": 60,
+        "to_sura": "النّساء",
+        "to_ayah": 65
+    },
+    {
+        "from_sura": "النّساء",
+        "from_ayah": 66,
+        "to_sura": "النّساء",
+        "to_ayah": 74
+    },
+    {
+        "from_sura": "النّساء",
+        "from_ayah": 75,
+        "to_sura": "النّساء",
+        "to_ayah": 79
+    },
+    {
+        "from_sura": "النّساء",
+        "from_ayah": 80,
+        "to_sura": "النّساء",
+        "to_ayah": 86
+    },
+    {
+        "from_sura": "النّساء",
+        "from_ayah": 87,
+        "to_sura": "النّساء",
+        "to_ayah": 91
+    },
+    {
+        "from_sura": "النّساء",
+        "from_ayah": 92,
+        "to_sura": "النّساء",
+        "to_ayah": 94
+    },
+    {
+        "from_sura": "النّساء",
+        "from_ayah": 95,
+        "to_sura": "النّساء",
+        "to_ayah": 101
+    },
+    {
+        "from_sura": "النّساء",
+        "from_ayah": 102,
+        "to_sura": "النّساء",
+        "to_ayah": 105
+    },
+    {
+        "from_sura": "النّساء",
+        "from_ayah": 106,
+        "to_sura": "النّساء",
+        "to_ayah": 113
+    },
+    {
+        "from_sura": "النّساء",
+        "from_ayah": 114,
+        "to_sura": "النّساء",
+        "to_ayah": 121
+    },
+    {
+        "from_sura": "النّساء",
+        "from_ayah": 122,
+        "to_sura": "النّساء",
+        "to_ayah": 127
+    },
+    {
+        "from_sura": "النّساء",
+        "from_ayah": 128,
+        "to_sura": "النّساء",
+        "to_ayah": 134
+    },
+    {
+        "from_sura": "النّساء",
+        "from_ayah": 135,
+        "to_sura": "النّساء",
+        "to_ayah": 140
+    },
+    {
+        "from_sura": "النّساء",
+        "from_ayah": 141,
+        "to_sura": "النّساء",
+        "to_ayah": 147
+    },
+    {
+        "from_sura": "النّساء",
+        "from_ayah": 148,
+        "to_sura": "النّساء",
+        "to_ayah": 154
+    },
+    {
+        "from_sura": "النّساء",
+        "from_ayah": 155,
+        "to_sura": "النّساء",
+        "to_ayah": 162
+    },
+    {
+        "from_sura": "النّساء",
+        "from_ayah": 163,
+        "to_sura": "النّساء",
+        "to_ayah": 170
+    },
+    {
+        "from_sura": "النّساء",
+        "from_ayah": 171,
+        "to_sura": "النّساء",
+        "to_ayah": 175
+    },
+    {
+        "from_sura": "النّساء",
+        "from_ayah": 176,
+        "to_sura": "المائدة",
+        "to_ayah": 2
+    },
+    {
+        "from_sura": "المائدة",
+        "from_ayah": 3,
+        "to_sura": "المائدة",
+        "to_ayah": 5
+    },
+    {
+        "from_sura": "المائدة",
+        "from_ayah": 6,
+        "to_sura": "المائدة",
+        "to_ayah": 9
+    },
+    {
+        "from_sura": "المائدة",
+        "from_ayah": 10,
+        "to_sura": "المائدة",
+        "to_ayah": 13
+    },
+    {
+        "from_sura": "المائدة",
+        "from_ayah": 14,
+        "to_sura": "المائدة",
+        "to_ayah": 17
+    },
+    {
+        "from_sura": "المائدة",
+        "from_ayah": 18,
+        "to_sura": "المائدة",
+        "to_ayah": 23
+    },
+    {
+        "from_sura": "المائدة",
+        "from_ayah": 24,
+        "to_sura": "المائدة",
+        "to_ayah": 31
+    },
+    {
+        "from_sura": "المائدة",
+        "from_ayah": 32,
+        "to_sura": "المائدة",
+        "to_ayah": 36
+    },
+    {
+        "from_sura": "المائدة",
+        "from_ayah": 37,
+        "to_sura": "المائدة",
+        "to_ayah": 41
+    },
+    {
+        "from_sura": "المائدة",
+        "from_ayah": 42,
+        "to_sura": "المائدة",
+        "to_ayah": 45
+    },
+    {
+        "from_sura": "المائدة",
+        "from_ayah": 46,
+        "to_sura": "المائدة",
+        "to_ayah": 50
+    },
+    {
+        "from_sura": "المائدة",
+        "from_ayah": 51,
+        "to_sura": "المائدة",
+        "to_ayah": 57
+    },
+    {
+        "from_sura": "المائدة",
+        "from_ayah": 58,
+        "to_sura": "المائدة",
+        "to_ayah": 64
+    },
+    {
+        "from_sura": "المائدة",
+        "from_ayah": 65,
+        "to_sura": "المائدة",
+        "to_ayah": 70
+    },
+    {
+        "from_sura": "المائدة",
+        "from_ayah": 71,
+        "to_sura": "المائدة",
+        "to_ayah": 77
+    },
+    {
+        "from_sura": "المائدة",
+        "from_ayah": 78,
+        "to_sura": "المائدة",
+        "to_ayah": 83
+    },
+    {
+        "from_sura": "المائدة",
+        "from_ayah": 84,
+        "to_sura": "المائدة",
+        "to_ayah": 90
+    },
+    {
+        "from_sura": "المائدة",
+        "from_ayah": 91,
+        "to_sura": "المائدة",
+        "to_ayah": 95
+    },
+    {
+        "from_sura": "المائدة",
+        "from_ayah": 96,
+        "to_sura": "المائدة",
+        "to_ayah": 103
+    },
+    {
+        "from_sura": "المائدة",
+        "from_ayah": 104,
+        "to_sura": "المائدة",
+        "to_ayah": 108
+    },
+    {
+        "from_sura": "المائدة",
+        "from_ayah": 109,
+        "to_sura": "المائدة",
+        "to_ayah": 113
+    },
+    {
+        "from_sura": "المائدة",
+        "from_ayah": 114,
+        "to_sura": "المائدة",
+        "to_ayah": 120
+    },
+    {
+        "from_sura": "الأنعام",
+        "from_ayah": 1,
+        "to_sura": "الأنعام",
+        "to_ayah": 8
+    },
+    {
+        "from_sura": "الأنعام",
+        "from_ayah": 9,
+        "to_sura": "الأنعام",
+        "to_ayah": 18
+    },
+    {
+        "from_sura": "الأنعام",
+        "from_ayah": 19,
+        "to_sura": "الأنعام",
+        "to_ayah": 27
+    },
+    {
+        "from_sura": "الأنعام",
+        "from_ayah": 28,
+        "to_sura": "الأنعام",
+        "to_ayah": 35
+    },
+    {
+        "from_sura": "الأنعام",
+        "from_ayah": 36,
+        "to_sura": "الأنعام",
+        "to_ayah": 44
+    },
+    {
+        "from_sura": "الأنعام",
+        "from_ayah": 45,
+        "to_sura": "الأنعام",
+        "to_ayah": 52
+    },
+    {
+        "from_sura": "الأنعام",
+        "from_ayah": 53,
+        "to_sura": "الأنعام",
+        "to_ayah": 59
+    },
+    {
+        "from_sura": "الأنعام",
+        "from_ayah": 60,
+        "to_sura": "الأنعام",
+        "to_ayah": 68
+    },
+    {
+        "from_sura": "الأنعام",
+        "from_ayah": 69,
+        "to_sura": "الأنعام",
+        "to_ayah": 73
+    },
+    {
+        "from_sura": "الأنعام",
+        "from_ayah": 74,
+        "to_sura": "الأنعام",
+        "to_ayah": 81
+    },
+    {
+        "from_sura": "الأنعام",
+        "from_ayah": 82,
+        "to_sura": "الأنعام",
+        "to_ayah": 90
+    },
+    {
+        "from_sura": "الأنعام",
+        "from_ayah": 91,
+        "to_sura": "الأنعام",
+        "to_ayah": 94
+    },
+    {
+        "from_sura": "الأنعام",
+        "from_ayah": 95,
+        "to_sura": "الأنعام",
+        "to_ayah": 101
+    },
+    {
+        "from_sura": "الأنعام",
+        "from_ayah": 102,
+        "to_sura": "الأنعام",
+        "to_ayah": 110
+    },
+    {
+        "from_sura": "الأنعام",
+        "from_ayah": 111,
+        "to_sura": "الأنعام",
+        "to_ayah": 118
+    },
+    {
+        "from_sura": "الأنعام",
+        "from_ayah": 119,
+        "to_sura": "الأنعام",
+        "to_ayah": 124
+    },
+    {
+        "from_sura": "الأنعام",
+        "from_ayah": 125,
+        "to_sura": "الأنعام",
+        "to_ayah": 130
+    },
+    {
+        "from_sura": "الأنعام",
+        "from_ayah": 131,
+        "to_sura": "الأنعام",
+        "to_ayah": 137
+    },
+    {
+        "from_sura": "الأنعام",
+        "from_ayah": 138,
+        "to_sura": "الأنعام",
+        "to_ayah": 142
+    },
+    {
+        "from_sura": "الأنعام",
+        "from_ayah": 143,
+        "to_sura": "الأنعام",
+        "to_ayah": 146
+    },
+    {
+        "from_sura": "الأنعام",
+        "from_ayah": 147,
+        "to_sura": "الأنعام",
+        "to_ayah": 151
+    },
+    {
+        "from_sura": "الأنعام",
+        "from_ayah": 152,
+        "to_sura": "الأنعام",
+        "to_ayah": 157
+    },
+    {
+        "from_sura": "الأنعام",
+        "from_ayah": 158,
+        "to_sura": "الأنعام",
+        "to_ayah": 165
+    },
+    {
+        "from_sura": "الأعراف",
+        "from_ayah": 1,
+        "to_sura": "الأعراف",
+        "to_ayah": 11
+    },
+    {
+        "from_sura": "الأعراف",
+        "from_ayah": 12,
+        "to_sura": "الأعراف",
+        "to_ayah": 22
+    },
+    {
+        "from_sura": "الأعراف",
+        "from_ayah": 23,
+        "to_sura": "الأعراف",
+        "to_ayah": 30
+    },
+    {
+        "from_sura": "الأعراف",
+        "from_ayah": 31,
+        "to_sura": "الأعراف",
+        "to_ayah": 37
+    },
+    {
+        "from_sura": "الأعراف",
+        "from_ayah": 38,
+        "to_sura": "الأعراف",
+        "to_ayah": 43
+    },
+    {
+        "from_sura": "الأعراف",
+        "from_ayah": 44,
+        "to_sura": "الأعراف",
+        "to_ayah": 51
+    },
+    {
+        "from_sura": "الأعراف",
+        "from_ayah": 52,
+        "to_sura": "الأعراف",
+        "to_ayah": 57
+    },
+    {
+        "from_sura": "الأعراف",
+        "from_ayah": 58,
+        "to_sura": "الأعراف",
+        "to_ayah": 67
+    },
+    {
+        "from_sura": "الأعراف",
+        "from_ayah": 68,
+        "to_sura": "الأعراف",
+        "to_ayah": 73
+    },
+    {
+        "from_sura": "الأعراف",
+        "from_ayah": 74,
+        "to_sura": "الأعراف",
+        "to_ayah": 81
+    },
+    {
+        "from_sura": "الأعراف",
+        "from_ayah": 82,
+        "to_sura": "الأعراف",
+        "to_ayah": 87
+    },
+    {
+        "from_sura": "الأعراف",
+        "from_ayah": 88,
+        "to_sura": "الأعراف",
+        "to_ayah": 95
+    },
+    {
+        "from_sura": "الأعراف",
+        "from_ayah": 96,
+        "to_sura": "الأعراف",
+        "to_ayah": 104
+    },
+    {
+        "from_sura": "الأعراف",
+        "from_ayah": 105,
+        "to_sura": "الأعراف",
+        "to_ayah": 120
+    },
+    {
+        "from_sura": "الأعراف",
+        "from_ayah": 121,
+        "to_sura": "الأعراف",
+        "to_ayah": 130
+    },
+    {
+        "from_sura": "الأعراف",
+        "from_ayah": 131,
+        "to_sura": "الأعراف",
+        "to_ayah": 137
+    },
+    {
+        "from_sura": "الأعراف",
+        "from_ayah": 138,
+        "to_sura": "الأعراف",
+        "to_ayah": 143
+    },
+    {
+        "from_sura": "الأعراف",
+        "from_ayah": 144,
+        "to_sura": "الأعراف",
+        "to_ayah": 149
+    },
+    {
+        "from_sura": "الأعراف",
+        "from_ayah": 150,
+        "to_sura": "الأعراف",
+        "to_ayah": 155
+    },
+    {
+        "from_sura": "الأعراف",
+        "from_ayah": 156,
+        "to_sura": "الأعراف",
+        "to_ayah": 159
+    },
+    {
+        "from_sura": "الأعراف",
+        "from_ayah": 160,
+        "to_sura": "الأعراف",
+        "to_ayah": 163
+    },
+    {
+        "from_sura": "الأعراف",
+        "from_ayah": 164,
+        "to_sura": "الأعراف",
+        "to_ayah": 170
+    },
+    {
+        "from_sura": "الأعراف",
+        "from_ayah": 171,
+        "to_sura": "الأعراف",
+        "to_ayah": 178
+    },
+    {
+        "from_sura": "الأعراف",
+        "from_ayah": 179,
+        "to_sura": "الأعراف",
+        "to_ayah": 187
+    },
+    {
+        "from_sura": "الأعراف",
+        "from_ayah": 188,
+        "to_sura": "الأعراف",
+        "to_ayah": 195
+    },
+    {
+        "from_sura": "الأعراف",
+        "from_ayah": 196,
+        "to_sura": "الأعراف",
+        "to_ayah": 206
+    },
+    {
+        "from_sura": "الأنفال",
+        "from_ayah": 1,
+        "to_sura": "الأنفال",
+        "to_ayah": 8
+    },
+    {
+        "from_sura": "الأنفال",
+        "from_ayah": 9,
+        "to_sura": "الأنفال",
+        "to_ayah": 16
+    },
+    {
+        "from_sura": "الأنفال",
+        "from_ayah": 17,
+        "to_sura": "الأنفال",
+        "to_ayah": 25
+    },
+    {
+        "from_sura": "الأنفال",
+        "from_ayah": 26,
+        "to_sura": "الأنفال",
+        "to_ayah": 33
+    },
+    {
+        "from_sura": "الأنفال",
+        "from_ayah": 34,
+        "to_sura": "الأنفال",
+        "to_ayah": 40
+    },
+    {
+        "from_sura": "الأنفال",
+        "from_ayah": 41,
+        "to_sura": "الأنفال",
+        "to_ayah": 45
+    },
+    {
+        "from_sura": "الأنفال",
+        "from_ayah": 46,
+        "to_sura": "الأنفال",
+        "to_ayah": 52
+    },
+    {
+        "from_sura": "الأنفال",
+        "from_ayah": 53,
+        "to_sura": "الأنفال",
+        "to_ayah": 61
+    },
+    {
+        "from_sura": "الأنفال",
+        "from_ayah": 62,
+        "to_sura": "الأنفال",
+        "to_ayah": 69
+    },
+    {
+        "from_sura": "الأنفال",
+        "from_ayah": 70,
+        "to_sura": "الأنفال",
+        "to_ayah": 75
+    },
+    {
+        "from_sura": "التوبة",
+        "from_ayah": 1,
+        "to_sura": "التوبة",
+        "to_ayah": 6
+    },
+    {
+        "from_sura": "التوبة",
+        "from_ayah": 7,
+        "to_sura": "التوبة",
+        "to_ayah": 13
+    },
+    {
+        "from_sura": "التوبة",
+        "from_ayah": 14,
+        "to_sura": "التوبة",
+        "to_ayah": 20
+    },
+    {
+        "from_sura": "التوبة",
+        "from_ayah": 21,
+        "to_sura": "التوبة",
+        "to_ayah": 26
+    },
+    {
+        "from_sura": "التوبة",
+        "from_ayah": 27,
+        "to_sura": "التوبة",
+        "to_ayah": 31
+    },
+    {
+        "from_sura": "التوبة",
+        "from_ayah": 32,
+        "to_sura": "التوبة",
+        "to_ayah": 36
+    },
+    {
+        "from_sura": "التوبة",
+        "from_ayah": 37,
+        "to_sura": "التوبة",
+        "to_ayah": 40
+    },
+    {
+        "from_sura": "التوبة",
+        "from_ayah": 41,
+        "to_sura": "التوبة",
+        "to_ayah": 47
+    },
+    {
+        "from_sura": "التوبة",
+        "from_ayah": 48,
+        "to_sura": "التوبة",
+        "to_ayah": 54
+    },
+    {
+        "from_sura": "التوبة",
+        "from_ayah": 55,
+        "to_sura": "التوبة",
+        "to_ayah": 61
+    },
+    {
+        "from_sura": "التوبة",
+        "from_ayah": 62,
+        "to_sura": "التوبة",
+        "to_ayah": 68
+    },
+    {
+        "from_sura": "التوبة",
+        "from_ayah": 69,
+        "to_sura": "التوبة",
+        "to_ayah": 72
+    },
+    {
+        "from_sura": "التوبة",
+        "from_ayah": 73,
+        "to_sura": "التوبة",
+        "to_ayah": 79
+    },
+    {
+        "from_sura": "التوبة",
+        "from_ayah": 80,
+        "to_sura": "التوبة",
+        "to_ayah": 86
+    },
+    {
+        "from_sura": "التوبة",
+        "from_ayah": 87,
+        "to_sura": "التوبة",
+        "to_ayah": 93
+    },
+    {
+        "from_sura": "التوبة",
+        "from_ayah": 94,
+        "to_sura": "التوبة",
+        "to_ayah": 99
+    },
+    {
+        "from_sura": "التوبة",
+        "from_ayah": 100,
+        "to_sura": "التوبة",
+        "to_ayah": 106
+    },
+    {
+        "from_sura": "التوبة",
+        "from_ayah": 107,
+        "to_sura": "التوبة",
+        "to_ayah": 111
+    },
+    {
+        "from_sura": "التوبة",
+        "from_ayah": 112,
+        "to_sura": "التوبة",
+        "to_ayah": 117
+    },
+    {
+        "from_sura": "التوبة",
+        "from_ayah": 118,
+        "to_sura": "التوبة",
+        "to_ayah": 122
+    },
+    {
+        "from_sura": "التوبة",
+        "from_ayah": 123,
+        "to_sura": "التوبة",
+        "to_ayah": 129
+    },
+    {
+        "from_sura": "يونس",
+        "from_ayah": 1,
+        "to_sura": "يونس",
+        "to_ayah": 6
+    },
+    {
+        "from_sura": "يونس",
+        "from_ayah": 7,
+        "to_sura": "يونس",
+        "to_ayah": 14
+    },
+    {
+        "from_sura": "يونس",
+        "from_ayah": 15,
+        "to_sura": "يونس",
+        "to_ayah": 20
+    },
+    {
+        "from_sura": "يونس",
+        "from_ayah": 21,
+        "to_sura": "يونس",
+        "to_ayah": 25
+    },
+    {
+        "from_sura": "يونس",
+        "from_ayah": 26,
+        "to_sura": "يونس",
+        "to_ayah": 33
+    },
+    {
+        "from_sura": "يونس",
+        "from_ayah": 34,
+        "to_sura": "يونس",
+        "to_ayah": 42
+    },
+    {
+        "from_sura": "يونس",
+        "from_ayah": 43,
+        "to_sura": "يونس",
+        "to_ayah": 53
+    },
+    {
+        "from_sura": "يونس",
+        "from_ayah": 54,
+        "to_sura": "يونس",
+        "to_ayah": 61
+    },
+    {
+        "from_sura": "يونس",
+        "from_ayah": 62,
+        "to_sura": "يونس",
+        "to_ayah": 70
+    },
+    {
+        "from_sura": "يونس",
+        "from_ayah": 71,
+        "to_sura": "يونس",
+        "to_ayah": 78
+    },
+    {
+        "from_sura": "يونس",
+        "from_ayah": 79,
+        "to_sura": "يونس",
+        "to_ayah": 88
+    },
+    {
+        "from_sura": "يونس",
+        "from_ayah": 89,
+        "to_sura": "يونس",
+        "to_ayah": 97
+    },
+    {
+        "from_sura": "يونس",
+        "from_ayah": 98,
+        "to_sura": "يونس",
+        "to_ayah": 106
+    },
+    {
+        "from_sura": "يونس",
+        "from_ayah": 107,
+        "to_sura": "هود",
+        "to_ayah": 5
+    },
+    {
+        "from_sura": "هود",
+        "from_ayah": 6,
+        "to_sura": "هود",
+        "to_ayah": 12
+    },
+    {
+        "from_sura": "هود",
+        "from_ayah": 13,
+        "to_sura": "هود",
+        "to_ayah": 19
+    },
+    {
+        "from_sura": "هود",
+        "from_ayah": 20,
+        "to_sura": "هود",
+        "to_ayah": 28
+    },
+    {
+        "from_sura": "هود",
+        "from_ayah": 29,
+        "to_sura": "هود",
+        "to_ayah": 37
+    },
+    {
+        "from_sura": "هود",
+        "from_ayah": 38,
+        "to_sura": "هود",
+        "to_ayah": 45
+    },
+    {
+        "from_sura": "هود",
+        "from_ayah": 46,
+        "to_sura": "هود",
+        "to_ayah": 53
+    },
+    {
+        "from_sura": "هود",
+        "from_ayah": 54,
+        "to_sura": "هود",
+        "to_ayah": 62
+    },
+    {
+        "from_sura": "هود",
+        "from_ayah": 63,
+        "to_sura": "هود",
+        "to_ayah": 71
+    },
+    {
+        "from_sura": "هود",
+        "from_ayah": 72,
+        "to_sura": "هود",
+        "to_ayah": 81
+    },
+    {
+        "from_sura": "هود",
+        "from_ayah": 82,
+        "to_sura": "هود",
+        "to_ayah": 88
+    },
+    {
+        "from_sura": "هود",
+        "from_ayah": 89,
+        "to_sura": "هود",
+        "to_ayah": 97
+    },
+    {
+        "from_sura": "هود",
+        "from_ayah": 98,
+        "to_sura": "هود",
+        "to_ayah": 108
+    },
+    {
+        "from_sura": "هود",
+        "from_ayah": 109,
+        "to_sura": "هود",
+        "to_ayah": 117
+    },
+    {
+        "from_sura": "هود",
+        "from_ayah": 118,
+        "to_sura": "يوسف",
+        "to_ayah": 4
+    },
+    {
+        "from_sura": "يوسف",
+        "from_ayah": 5,
+        "to_sura": "يوسف",
+        "to_ayah": 14
+    },
+    {
+        "from_sura": "يوسف",
+        "from_ayah": 15,
+        "to_sura": "يوسف",
+        "to_ayah": 22
+    },
+    {
+        "from_sura": "يوسف",
+        "from_ayah": 23,
+        "to_sura": "يوسف",
+        "to_ayah": 30
+    },
+    {
+        "from_sura": "يوسف",
+        "from_ayah": 31,
+        "to_sura": "يوسف",
+        "to_ayah": 37
+    },
+    {
+        "from_sura": "يوسف",
+        "from_ayah": 38,
+        "to_sura": "يوسف",
+        "to_ayah": 43
+    },
+    {
+        "from_sura": "يوسف",
+        "from_ayah": 44,
+        "to_sura": "يوسف",
+        "to_ayah": 52
+    },
+    {
+        "from_sura": "يوسف",
+        "from_ayah": 53,
+        "to_sura": "يوسف",
+        "to_ayah": 63
+    },
+    {
+        "from_sura": "يوسف",
+        "from_ayah": 64,
+        "to_sura": "يوسف",
+        "to_ayah": 69
+    },
+    {
+        "from_sura": "يوسف",
+        "from_ayah": 70,
+        "to_sura": "يوسف",
+        "to_ayah": 78
+    },
+    {
+        "from_sura": "يوسف",
+        "from_ayah": 79,
+        "to_sura": "يوسف",
+        "to_ayah": 86
+    },
+    {
+        "from_sura": "يوسف",
+        "from_ayah": 87,
+        "to_sura": "يوسف",
+        "to_ayah": 95
+    },
+    {
+        "from_sura": "يوسف",
+        "from_ayah": 96,
+        "to_sura": "يوسف",
+        "to_ayah": 103
+    },
+    {
+        "from_sura": "يوسف",
+        "from_ayah": 104,
+        "to_sura": "يوسف",
+        "to_ayah": 111
+    },
+    {
+        "from_sura": "الرعد",
+        "from_ayah": 1,
+        "to_sura": "الرعد",
+        "to_ayah": 5
+    },
+    {
+        "from_sura": "الرعد",
+        "from_ayah": 6,
+        "to_sura": "الرعد",
+        "to_ayah": 13
+    },
+    {
+        "from_sura": "الرعد",
+        "from_ayah": 14,
+        "to_sura": "الرعد",
+        "to_ayah": 18
+    },
+    {
+        "from_sura": "الرعد",
+        "from_ayah": 19,
+        "to_sura": "الرعد",
+        "to_ayah": 28
+    },
+    {
+        "from_sura": "الرعد",
+        "from_ayah": 29,
+        "to_sura": "الرعد",
+        "to_ayah": 34
+    },
+    {
+        "from_sura": "الرعد",
+        "from_ayah": 35,
+        "to_sura": "الرعد",
+        "to_ayah": 42
+    },
+    {
+        "from_sura": "الرعد",
+        "from_ayah": 43,
+        "to_sura": "إبراهيم",
+        "to_ayah": 5
+    },
+    {
+        "from_sura": "إبراهيم",
+        "from_ayah": 6,
+        "to_sura": "إبراهيم",
+        "to_ayah": 10
+    },
+    {
+        "from_sura": "إبراهيم",
+        "from_ayah": 11,
+        "to_sura": "إبراهيم",
+        "to_ayah": 18
+    },
+    {
+        "from_sura": "إبراهيم",
+        "from_ayah": 19,
+        "to_sura": "إبراهيم",
+        "to_ayah": 24
+    },
+    {
+        "from_sura": "إبراهيم",
+        "from_ayah": 25,
+        "to_sura": "إبراهيم",
+        "to_ayah": 33
+    },
+    {
+        "from_sura": "إبراهيم",
+        "from_ayah": 34,
+        "to_sura": "إبراهيم",
+        "to_ayah": 42
+    },
+    {
+        "from_sura": "إبراهيم",
+        "from_ayah": 43,
+        "to_sura": "إبراهيم",
+        "to_ayah": 52
+    },
+    {
+        "from_sura": "الحجر",
+        "from_ayah": 1,
+        "to_sura": "الحجر",
+        "to_ayah": 15
+    },
+    {
+        "from_sura": "الحجر",
+        "from_ayah": 16,
+        "to_sura": "الحجر",
+        "to_ayah": 31
+    },
+    {
+        "from_sura": "الحجر",
+        "from_ayah": 32,
+        "to_sura": "الحجر",
+        "to_ayah": 51
+    },
+    {
+        "from_sura": "الحجر",
+        "from_ayah": 52,
+        "to_sura": "الحجر",
+        "to_ayah": 70
+    },
+    {
+        "from_sura": "الحجر",
+        "from_ayah": 71,
+        "to_sura": "الحجر",
+        "to_ayah": 90
+    },
+    {
+        "from_sura": "الحجر",
+        "from_ayah": 91,
+        "to_sura": "النحل",
+        "to_ayah": 6
+    },
+    {
+        "from_sura": "النحل",
+        "from_ayah": 7,
+        "to_sura": "النحل",
+        "to_ayah": 14
+    },
+    {
+        "from_sura": "النحل",
+        "from_ayah": 15,
+        "to_sura": "النحل",
+        "to_ayah": 26
+    },
+    {
+        "from_sura": "النحل",
+        "from_ayah": 27,
+        "to_sura": "النحل",
+        "to_ayah": 34
+    },
+    {
+        "from_sura": "النحل",
+        "from_ayah": 35,
+        "to_sura": "النحل",
+        "to_ayah": 42
+    },
+    {
+        "from_sura": "النحل",
+        "from_ayah": 43,
+        "to_sura": "النحل",
+        "to_ayah": 54
+    },
+    {
+        "from_sura": "النحل",
+        "from_ayah": 55,
+        "to_sura": "النحل",
+        "to_ayah": 64
+    },
+    {
+        "from_sura": "النحل",
+        "from_ayah": 65,
+        "to_sura": "النحل",
+        "to_ayah": 72
+    },
+    {
+        "from_sura": "النحل",
+        "from_ayah": 73,
+        "to_sura": "النحل",
+        "to_ayah": 79
+    },
+    {
+        "from_sura": "النحل",
+        "from_ayah": 80,
+        "to_sura": "النحل",
+        "to_ayah": 87
+    },
+    {
+        "from_sura": "النحل",
+        "from_ayah": 88,
+        "to_sura": "النحل",
+        "to_ayah": 93
+    },
+    {
+        "from_sura": "النحل",
+        "from_ayah": 94,
+        "to_sura": "النحل",
+        "to_ayah": 102
+    },
+    {
+        "from_sura": "النحل",
+        "from_ayah": 103,
+        "to_sura": "النحل",
+        "to_ayah": 110
+    },
+    {
+        "from_sura": "النحل",
+        "from_ayah": 111,
+        "to_sura": "النحل",
+        "to_ayah": 118
+    },
+    {
+        "from_sura": "النحل",
+        "from_ayah": 119,
+        "to_sura": "النحل",
+        "to_ayah": 128
+    },
+    {
+        "from_sura": "الإسراء",
+        "from_ayah": 1,
+        "to_sura": "الإسراء",
+        "to_ayah": 7
+    },
+    {
+        "from_sura": "الإسراء",
+        "from_ayah": 8,
+        "to_sura": "الإسراء",
+        "to_ayah": 17
+    },
+    {
+        "from_sura": "الإسراء",
+        "from_ayah": 18,
+        "to_sura": "الإسراء",
+        "to_ayah": 27
+    },
+    {
+        "from_sura": "الإسراء",
+        "from_ayah": 28,
+        "to_sura": "الإسراء",
+        "to_ayah": 38
+    },
+    {
+        "from_sura": "الإسراء",
+        "from_ayah": 39,
+        "to_sura": "الإسراء",
+        "to_ayah": 49
+    },
+    {
+        "from_sura": "الإسراء",
+        "from_ayah": 50,
+        "to_sura": "الإسراء",
+        "to_ayah": 58
+    },
+    {
+        "from_sura": "الإسراء",
+        "from_ayah": 59,
+        "to_sura": "الإسراء",
+        "to_ayah": 66
+    },
+    {
+        "from_sura": "الإسراء",
+        "from_ayah": 67,
+        "to_sura": "الإسراء",
+        "to_ayah": 75
+    },
+    {
+        "from_sura": "الإسراء",
+        "from_ayah": 76,
+        "to_sura": "الإسراء",
+        "to_ayah": 86
+    },
+    {
+        "from_sura": "الإسراء",
+        "from_ayah": 87,
+        "to_sura": "الإسراء",
+        "to_ayah": 96
+    },
+    {
+        "from_sura": "الإسراء",
+        "from_ayah": 97,
+        "to_sura": "الإسراء",
+        "to_ayah": 104
+    },
+    {
+        "from_sura": "الإسراء",
+        "from_ayah": 105,
+        "to_sura": "الكهف",
+        "to_ayah": 4
+    },
+    {
+        "from_sura": "الكهف",
+        "from_ayah": 5,
+        "to_sura": "الكهف",
+        "to_ayah": 15
+    },
+    {
+        "from_sura": "الكهف",
+        "from_ayah": 16,
+        "to_sura": "الكهف",
+        "to_ayah": 20
+    },
+    {
+        "from_sura": "الكهف",
+        "from_ayah": 21,
+        "to_sura": "الكهف",
+        "to_ayah": 27
+    },
+    {
+        "from_sura": "الكهف",
+        "from_ayah": 28,
+        "to_sura": "الكهف",
+        "to_ayah": 34
+    },
+    {
+        "from_sura": "الكهف",
+        "from_ayah": 35,
+        "to_sura": "الكهف",
+        "to_ayah": 45
+    },
+    {
+        "from_sura": "الكهف",
+        "from_ayah": 46,
+        "to_sura": "الكهف",
+        "to_ayah": 53
+    },
+    {
+        "from_sura": "الكهف",
+        "from_ayah": 54,
+        "to_sura": "الكهف",
+        "to_ayah": 61
+    },
+    {
+        "from_sura": "الكهف",
+        "from_ayah": 62,
+        "to_sura": "الكهف",
+        "to_ayah": 74
+    },
+    {
+        "from_sura": "الكهف",
+        "from_ayah": 75,
+        "to_sura": "الكهف",
+        "to_ayah": 83
+    },
+    {
+        "from_sura": "الكهف",
+        "from_ayah": 84,
+        "to_sura": "الكهف",
+        "to_ayah": 97
+    },
+    {
+        "from_sura": "الكهف",
+        "from_ayah": 98,
+        "to_sura": "الكهف",
+        "to_ayah": 110
+    },
+    {
+        "from_sura": "مريم",
+        "from_ayah": 1,
+        "to_sura": "مريم",
+        "to_ayah": 11
+    },
+    {
+        "from_sura": "مريم",
+        "from_ayah": 12,
+        "to_sura": "مريم",
+        "to_ayah": 25
+    },
+    {
+        "from_sura": "مريم",
+        "from_ayah": 26,
+        "to_sura": "مريم",
+        "to_ayah": 38
+    },
+    {
+        "from_sura": "مريم",
+        "from_ayah": 39,
+        "to_sura": "مريم",
+        "to_ayah": 51
+    },
+    {
+        "from_sura": "مريم",
+        "from_ayah": 52,
+        "to_sura": "مريم",
+        "to_ayah": 64
+    },
+    {
+        "from_sura": "مريم",
+        "from_ayah": 65,
+        "to_sura": "مريم",
+        "to_ayah": 76
+    },
+    {
+        "from_sura": "مريم",
+        "from_ayah": 77,
+        "to_sura": "مريم",
+        "to_ayah": 95
+    },
+    {
+        "from_sura": "مريم",
+        "from_ayah": 96,
+        "to_sura": "طه",
+        "to_ayah": 12
+    },
+    {
+        "from_sura": "طه",
+        "from_ayah": 13,
+        "to_sura": "طه",
+        "to_ayah": 37
+    },
+    {
+        "from_sura": "طه",
+        "from_ayah": 38,
+        "to_sura": "طه",
+        "to_ayah": 51
+    },
+    {
+        "from_sura": "طه",
+        "from_ayah": 52,
+        "to_sura": "طه",
+        "to_ayah": 64
+    },
+    {
+        "from_sura": "طه",
+        "from_ayah": 65,
+        "to_sura": "طه",
+        "to_ayah": 76
+    },
+    {
+        "from_sura": "طه",
+        "from_ayah": 77,
+        "to_sura": "طه",
+        "to_ayah": 87
+    },
+    {
+        "from_sura": "طه",
+        "from_ayah": 88,
+        "to_sura": "طه",
+        "to_ayah": 98
+    },
+    {
+        "from_sura": "طه",
+        "from_ayah": 99,
+        "to_sura": "طه",
+        "to_ayah": 113
+    },
+    {
+        "from_sura": "طه",
+        "from_ayah": 114,
+        "to_sura": "طه",
+        "to_ayah": 125
+    },
+    {
+        "from_sura": "طه",
+        "from_ayah": 126,
+        "to_sura": "طه",
+        "to_ayah": 135
+    },
+    {
+        "from_sura": "الأنبياء",
+        "from_ayah": 1,
+        "to_sura": "الأنبياء",
+        "to_ayah": 10
+    },
+    {
+        "from_sura": "الأنبياء",
+        "from_ayah": 11,
+        "to_sura": "الأنبياء",
+        "to_ayah": 24
+    },
+    {
+        "from_sura": "الأنبياء",
+        "from_ayah": 25,
+        "to_sura": "الأنبياء",
+        "to_ayah": 35
+    },
+    {
+        "from_sura": "الأنبياء",
+        "from_ayah": 36,
+        "to_sura": "الأنبياء",
+        "to_ayah": 44
+    },
+    {
+        "from_sura": "الأنبياء",
+        "from_ayah": 45,
+        "to_sura": "الأنبياء",
+        "to_ayah": 57
+    },
+    {
+        "from_sura": "الأنبياء",
+        "from_ayah": 58,
+        "to_sura": "الأنبياء",
+        "to_ayah": 72
+    },
+    {
+        "from_sura": "الأنبياء",
+        "from_ayah": 73,
+        "to_sura": "الأنبياء",
+        "to_ayah": 81
+    },
+    {
+        "from_sura": "الأنبياء",
+        "from_ayah": 82,
+        "to_sura": "الأنبياء",
+        "to_ayah": 90
+    },
+    {
+        "from_sura": "الأنبياء",
+        "from_ayah": 91,
+        "to_sura": "الأنبياء",
+        "to_ayah": 101
+    },
+    {
+        "from_sura": "الأنبياء",
+        "from_ayah": 102,
+        "to_sura": "الأنبياء",
+        "to_ayah": 112
+    },
+    {
+        "from_sura": "الحج",
+        "from_ayah": 1,
+        "to_sura": "الحج",
+        "to_ayah": 5
+    },
+    {
+        "from_sura": "الحج",
+        "from_ayah": 6,
+        "to_sura": "الحج",
+        "to_ayah": 15
+    },
+    {
+        "from_sura": "الحج",
+        "from_ayah": 16,
+        "to_sura": "الحج",
+        "to_ayah": 23
+    },
+    {
+        "from_sura": "الحج",
+        "from_ayah": 24,
+        "to_sura": "الحج",
+        "to_ayah": 30
+    },
+    {
+        "from_sura": "الحج",
+        "from_ayah": 31,
+        "to_sura": "الحج",
+        "to_ayah": 38
+    },
+    {
+        "from_sura": "الحج",
+        "from_ayah": 39,
+        "to_sura": "الحج",
+        "to_ayah": 46
+    },
+    {
+        "from_sura": "الحج",
+        "from_ayah": 47,
+        "to_sura": "الحج",
+        "to_ayah": 55
+    },
+    {
+        "from_sura": "الحج",
+        "from_ayah": 56,
+        "to_sura": "الحج",
+        "to_ayah": 64
+    },
+    {
+        "from_sura": "الحج",
+        "from_ayah": 65,
+        "to_sura": "الحج",
+        "to_ayah": 72
+    },
+    {
+        "from_sura": "الحج",
+        "from_ayah": 73,
+        "to_sura": "الحج",
+        "to_ayah": 78
+    },
+    {
+        "from_sura": "المؤمنون",
+        "from_ayah": 1,
+        "to_sura": "المؤمنون",
+        "to_ayah": 17
+    },
+    {
+        "from_sura": "المؤمنون",
+        "from_ayah": 18,
+        "to_sura": "المؤمنون",
+        "to_ayah": 27
+    },
+    {
+        "from_sura": "المؤمنون",
+        "from_ayah": 28,
+        "to_sura": "المؤمنون",
+        "to_ayah": 42
+    },
+    {
+        "from_sura": "المؤمنون",
+        "from_ayah": 43,
+        "to_sura": "المؤمنون",
+        "to_ayah": 59
+    },
+    {
+        "from_sura": "المؤمنون",
+        "from_ayah": 60,
+        "to_sura": "المؤمنون",
+        "to_ayah": 74
+    },
+    {
+        "from_sura": "المؤمنون",
+        "from_ayah": 75,
+        "to_sura": "المؤمنون",
+        "to_ayah": 89
+    },
+    {
+        "from_sura": "المؤمنون",
+        "from_ayah": 90,
+        "to_sura": "المؤمنون",
+        "to_ayah": 104
+    },
+    {
+        "from_sura": "المؤمنون",
+        "from_ayah": 105,
+        "to_sura": "المؤمنون",
+        "to_ayah": 118
+    },
+    {
+        "from_sura": "النور",
+        "from_ayah": 1,
+        "to_sura": "النور",
+        "to_ayah": 10
+    },
+    {
+        "from_sura": "النور",
+        "from_ayah": 11,
+        "to_sura": "النور",
+        "to_ayah": 20
+    },
+    {
+        "from_sura": "النور",
+        "from_ayah": 21,
+        "to_sura": "النور",
+        "to_ayah": 27
+    },
+    {
+        "from_sura": "النور",
+        "from_ayah": 28,
+        "to_sura": "النور",
+        "to_ayah": 31
+    },
+    {
+        "from_sura": "النور",
+        "from_ayah": 32,
+        "to_sura": "النور",
+        "to_ayah": 36
+    },
+    {
+        "from_sura": "النور",
+        "from_ayah": 37,
+        "to_sura": "النور",
+        "to_ayah": 43
+    },
+    {
+        "from_sura": "النور",
+        "from_ayah": 44,
+        "to_sura": "النور",
+        "to_ayah": 53
+    },
+    {
+        "from_sura": "النور",
+        "from_ayah": 54,
+        "to_sura": "النور",
+        "to_ayah": 58
+    },
+    {
+        "from_sura": "النور",
+        "from_ayah": 59,
+        "to_sura": "النور",
+        "to_ayah": 61
+    },
+    {
+        "from_sura": "النور",
+        "from_ayah": 62,
+        "to_sura": "الفرقان",
+        "to_ayah": 2
+    },
+    {
+        "from_sura": "الفرقان",
+        "from_ayah": 3,
+        "to_sura": "الفرقان",
+        "to_ayah": 11
+    },
+    {
+        "from_sura": "الفرقان",
+        "from_ayah": 12,
+        "to_sura": "الفرقان",
+        "to_ayah": 20
+    },
+    {
+        "from_sura": "الفرقان",
+        "from_ayah": 21,
+        "to_sura": "الفرقان",
+        "to_ayah": 32
+    },
+    {
+        "from_sura": "الفرقان",
+        "from_ayah": 33,
+        "to_sura": "الفرقان",
+        "to_ayah": 43
+    },
+    {
+        "from_sura": "الفرقان",
+        "from_ayah": 44,
+        "to_sura": "الفرقان",
+        "to_ayah": 55
+    },
+    {
+        "from_sura": "الفرقان",
+        "from_ayah": 56,
+        "to_sura": "الفرقان",
+        "to_ayah": 67
+    },
+    {
+        "from_sura": "الفرقان",
+        "from_ayah": 68,
+        "to_sura": "الفرقان",
+        "to_ayah": 77
+    },
+    {
+        "from_sura": "الشعراء",
+        "from_ayah": 1,
+        "to_sura": "الشعراء",
+        "to_ayah": 19
+    },
+    {
+        "from_sura": "الشعراء",
+        "from_ayah": 20,
+        "to_sura": "الشعراء",
+        "to_ayah": 39
+    },
+    {
+        "from_sura": "الشعراء",
+        "from_ayah": 40,
+        "to_sura": "الشعراء",
+        "to_ayah": 60
+    },
+    {
+        "from_sura": "الشعراء",
+        "from_ayah": 61,
+        "to_sura": "الشعراء",
+        "to_ayah": 83
+    },
+    {
+        "from_sura": "الشعراء",
+        "from_ayah": 84,
+        "to_sura": "الشعراء",
+        "to_ayah": 111
+    },
+    {
+        "from_sura": "الشعراء",
+        "from_ayah": 112,
+        "to_sura": "الشعراء",
+        "to_ayah": 136
+    },
+    {
+        "from_sura": "الشعراء",
+        "from_ayah": 137,
+        "to_sura": "الشعراء",
+        "to_ayah": 159
+    },
+    {
+        "from_sura": "الشعراء",
+        "from_ayah": 160,
+        "to_sura": "الشعراء",
+        "to_ayah": 183
+    },
+    {
+        "from_sura": "الشعراء",
+        "from_ayah": 184,
+        "to_sura": "الشعراء",
+        "to_ayah": 206
+    },
+    {
+        "from_sura": "الشعراء",
+        "from_ayah": 207,
+        "to_sura": "الشعراء",
+        "to_ayah": 227
+    },
+    {
+        "from_sura": "النمل",
+        "from_ayah": 1,
+        "to_sura": "النمل",
+        "to_ayah": 13
+    },
+    {
+        "from_sura": "النمل",
+        "from_ayah": 14,
+        "to_sura": "النمل",
+        "to_ayah": 22
+    },
+    {
+        "from_sura": "النمل",
+        "from_ayah": 23,
+        "to_sura": "النمل",
+        "to_ayah": 35
+    },
+    {
+        "from_sura": "النمل",
+        "from_ayah": 36,
+        "to_sura": "النمل",
+        "to_ayah": 44
+    },
+    {
+        "from_sura": "النمل",
+        "from_ayah": 45,
+        "to_sura": "النمل",
+        "to_ayah": 55
+    },
+    {
+        "from_sura": "النمل",
+        "from_ayah": 56,
+        "to_sura": "النمل",
+        "to_ayah": 63
+    },
+    {
+        "from_sura": "النمل",
+        "from_ayah": 64,
+        "to_sura": "النمل",
+        "to_ayah": 76
+    },
+    {
+        "from_sura": "النمل",
+        "from_ayah": 77,
+        "to_sura": "النمل",
+        "to_ayah": 88
+    },
+    {
+        "from_sura": "النمل",
+        "from_ayah": 89,
+        "to_sura": "القصص",
+        "to_ayah": 5
+    },
+    {
+        "from_sura": "القصص",
+        "from_ayah": 6,
+        "to_sura": "القصص",
+        "to_ayah": 13
+    },
+    {
+        "from_sura": "القصص",
+        "from_ayah": 14,
+        "to_sura": "القصص",
+        "to_ayah": 21
+    },
+    {
+        "from_sura": "القصص",
+        "from_ayah": 22,
+        "to_sura": "القصص",
+        "to_ayah": 28
+    },
+    {
+        "from_sura": "القصص",
+        "from_ayah": 29,
+        "to_sura": "القصص",
+        "to_ayah": 35
+    },
+    {
+        "from_sura": "القصص",
+        "from_ayah": 36,
+        "to_sura": "القصص",
+        "to_ayah": 43
+    },
+    {
+        "from_sura": "القصص",
+        "from_ayah": 44,
+        "to_sura": "القصص",
+        "to_ayah": 50
+    },
+    {
+        "from_sura": "القصص",
+        "from_ayah": 51,
+        "to_sura": "القصص",
+        "to_ayah": 59
+    },
+    {
+        "from_sura": "القصص",
+        "from_ayah": 60,
+        "to_sura": "القصص",
+        "to_ayah": 70
+    },
+    {
+        "from_sura": "القصص",
+        "from_ayah": 71,
+        "to_sura": "القصص",
+        "to_ayah": 77
+    },
+    {
+        "from_sura": "القصص",
+        "from_ayah": 78,
+        "to_sura": "القصص",
+        "to_ayah": 84
+    },
+    {
+        "from_sura": "القصص",
+        "from_ayah": 85,
+        "to_sura": "العنكبوت",
+        "to_ayah": 6
+    },
+    {
+        "from_sura": "العنكبوت",
+        "from_ayah": 7,
+        "to_sura": "العنكبوت",
+        "to_ayah": 14
+    },
+    {
+        "from_sura": "العنكبوت",
+        "from_ayah": 15,
+        "to_sura": "العنكبوت",
+        "to_ayah": 23
+    },
+    {
+        "from_sura": "العنكبوت",
+        "from_ayah": 24,
+        "to_sura": "العنكبوت",
+        "to_ayah": 30
+    },
+    {
+        "from_sura": "العنكبوت",
+        "from_ayah": 31,
+        "to_sura": "العنكبوت",
+        "to_ayah": 38
+    },
+    {
+        "from_sura": "العنكبوت",
+        "from_ayah": 39,
+        "to_sura": "العنكبوت",
+        "to_ayah": 45
+    },
+    {
+        "from_sura": "العنكبوت",
+        "from_ayah": 46,
+        "to_sura": "العنكبوت",
+        "to_ayah": 52
+    },
+    {
+        "from_sura": "العنكبوت",
+        "from_ayah": 53,
+        "to_sura": "العنكبوت",
+        "to_ayah": 63
+    },
+    {
+        "from_sura": "العنكبوت",
+        "from_ayah": 64,
+        "to_sura": "الروم",
+        "to_ayah": 5
+    },
+    {
+        "from_sura": "الروم",
+        "from_ayah": 6,
+        "to_sura": "الروم",
+        "to_ayah": 15
+    },
+    {
+        "from_sura": "الروم",
+        "from_ayah": 16,
+        "to_sura": "الروم",
+        "to_ayah": 24
+    },
+    {
+        "from_sura": "الروم",
+        "from_ayah": 25,
+        "to_sura": "الروم",
+        "to_ayah": 32
+    },
+    {
+        "from_sura": "الروم",
+        "from_ayah": 33,
+        "to_sura": "الروم",
+        "to_ayah": 41
+    },
+    {
+        "from_sura": "الروم",
+        "from_ayah": 42,
+        "to_sura": "الروم",
+        "to_ayah": 50
+    },
+    {
+        "from_sura": "الروم",
+        "from_ayah": 51,
+        "to_sura": "الروم",
+        "to_ayah": 60
+    },
+    {
+        "from_sura": "لقمان",
+        "from_ayah": 1,
+        "to_sura": "لقمان",
+        "to_ayah": 11
+    },
+    {
+        "from_sura": "لقمان",
+        "from_ayah": 12,
+        "to_sura": "لقمان",
+        "to_ayah": 19
+    },
+    {
+        "from_sura": "لقمان",
+        "from_ayah": 20,
+        "to_sura": "لقمان",
+        "to_ayah": 28
+    },
+    {
+        "from_sura": "لقمان",
+        "from_ayah": 29,
+        "to_sura": "لقمان",
+        "to_ayah": 34
+    },
+    {
+        "from_sura": "السجدة",
+        "from_ayah": 1,
+        "to_sura": "السجدة",
+        "to_ayah": 11
+    },
+    {
+        "from_sura": "السجدة",
+        "from_ayah": 12,
+        "to_sura": "السجدة",
+        "to_ayah": 20
+    },
+    {
+        "from_sura": "السجدة",
+        "from_ayah": 21,
+        "to_sura": "السجدة",
+        "to_ayah": 30
+    },
+    {
+        "from_sura": "الأحزاب",
+        "from_ayah": 1,
+        "to_sura": "الأحزاب",
+        "to_ayah": 6
+    },
+    {
+        "from_sura": "الأحزاب",
+        "from_ayah": 7,
+        "to_sura": "الأحزاب",
+        "to_ayah": 15
+    },
+    {
+        "from_sura": "الأحزاب",
+        "from_ayah": 16,
+        "to_sura": "الأحزاب",
+        "to_ayah": 22
+    },
+    {
+        "from_sura": "الأحزاب",
+        "from_ayah": 23,
+        "to_sura": "الأحزاب",
+        "to_ayah": 30
+    },
+    {
+        "from_sura": "الأحزاب",
+        "from_ayah": 31,
+        "to_sura": "الأحزاب",
+        "to_ayah": 35
+    },
+    {
+        "from_sura": "الأحزاب",
+        "from_ayah": 36,
+        "to_sura": "الأحزاب",
+        "to_ayah": 43
+    },
+    {
+        "from_sura": "الأحزاب",
+        "from_ayah": 44,
+        "to_sura": "الأحزاب",
+        "to_ayah": 50
+    },
+    {
+        "from_sura": "الأحزاب",
+        "from_ayah": 51,
+        "to_sura": "الأحزاب",
+        "to_ayah": 54
+    },
+    {
+        "from_sura": "الأحزاب",
+        "from_ayah": 55,
+        "to_sura": "الأحزاب",
+        "to_ayah": 62
+    },
+    {
+        "from_sura": "الأحزاب",
+        "from_ayah": 63,
+        "to_sura": "الأحزاب",
+        "to_ayah": 73
+    },
+    {
+        "from_sura": "سبإ",
+        "from_ayah": 1,
+        "to_sura": "سبإ",
+        "to_ayah": 7
+    },
+    {
+        "from_sura": "سبإ",
+        "from_ayah": 8,
+        "to_sura": "سبإ",
+        "to_ayah": 14
+    },
+    {
+        "from_sura": "سبإ",
+        "from_ayah": 15,
+        "to_sura": "سبإ",
+        "to_ayah": 22
+    },
+    {
+        "from_sura": "سبإ",
+        "from_ayah": 23,
+        "to_sura": "سبإ",
+        "to_ayah": 31
+    },
+    {
+        "from_sura": "سبإ",
+        "from_ayah": 32,
+        "to_sura": "سبإ",
+        "to_ayah": 39
+    },
+    {
+        "from_sura": "سبإ",
+        "from_ayah": 40,
+        "to_sura": "سبإ",
+        "to_ayah": 48
+    },
+    {
+        "from_sura": "سبإ",
+        "from_ayah": 49,
+        "to_sura": "فاطر",
+        "to_ayah": 3
+    },
+    {
+        "from_sura": "فاطر",
+        "from_ayah": 4,
+        "to_sura": "فاطر",
+        "to_ayah": 11
+    },
+    {
+        "from_sura": "فاطر",
+        "from_ayah": 12,
+        "to_sura": "فاطر",
+        "to_ayah": 18
+    },
+    {
+        "from_sura": "فاطر",
+        "from_ayah": 19,
+        "to_sura": "فاطر",
+        "to_ayah": 30
+    },
+    {
+        "from_sura": "فاطر",
+        "from_ayah": 31,
+        "to_sura": "فاطر",
+        "to_ayah": 38
+    },
+    {
+        "from_sura": "فاطر",
+        "from_ayah": 39,
+        "to_sura": "فاطر",
+        "to_ayah": 44
+    },
+    {
+        "from_sura": "فاطر",
+        "from_ayah": 45,
+        "to_sura": "يس",
+        "to_ayah": 12
+    },
+    {
+        "from_sura": "يس",
+        "from_ayah": 13,
+        "to_sura": "يس",
+        "to_ayah": 27
+    },
+    {
+        "from_sura": "يس",
+        "from_ayah": 28,
+        "to_sura": "يس",
+        "to_ayah": 40
+    },
+    {
+        "from_sura": "يس",
+        "from_ayah": 41,
+        "to_sura": "يس",
+        "to_ayah": 54
+    },
+    {
+        "from_sura": "يس",
+        "from_ayah": 55,
+        "to_sura": "يس",
+        "to_ayah": 70
+    },
+    {
+        "from_sura": "يس",
+        "from_ayah": 71,
+        "to_sura": "يس",
+        "to_ayah": 83
+    },
+    {
+        "from_sura": "الصافات",
+        "from_ayah": 1,
+        "to_sura": "الصافات",
+        "to_ayah": 24
+    },
+    {
+        "from_sura": "الصافات",
+        "from_ayah": 25,
+        "to_sura": "الصافات",
+        "to_ayah": 51
+    },
+    {
+        "from_sura": "الصافات",
+        "from_ayah": 52,
+        "to_sura": "الصافات",
+        "to_ayah": 76
+    },
+    {
+        "from_sura": "الصافات",
+        "from_ayah": 77,
+        "to_sura": "الصافات",
+        "to_ayah": 102
+    },
+    {
+        "from_sura": "الصافات",
+        "from_ayah": 103,
+        "to_sura": "الصافات",
+        "to_ayah": 126
+    },
+    {
+        "from_sura": "الصافات",
+        "from_ayah": 127,
+        "to_sura": "الصافات",
+        "to_ayah": 153
+    },
+    {
+        "from_sura": "الصافات",
+        "from_ayah": 154,
+        "to_sura": "الصافات",
+        "to_ayah": 182
+    },
+    {
+        "from_sura": "ص",
+        "from_ayah": 1,
+        "to_sura": "ص",
+        "to_ayah": 16
+    },
+    {
+        "from_sura": "ص",
+        "from_ayah": 17,
+        "to_sura": "ص",
+        "to_ayah": 26
+    },
+    {
+        "from_sura": "ص",
+        "from_ayah": 27,
+        "to_sura": "ص",
+        "to_ayah": 42
+    },
+    {
+        "from_sura": "ص",
+        "from_ayah": 43,
+        "to_sura": "ص",
+        "to_ayah": 61
+    },
+    {
+        "from_sura": "ص",
+        "from_ayah": 62,
+        "to_sura": "ص",
+        "to_ayah": 83
+    },
+    {
+        "from_sura": "ص",
+        "from_ayah": 84,
+        "to_sura": "الزمر",
+        "to_ayah": 5
+    },
+    {
+        "from_sura": "الزمر",
+        "from_ayah": 6,
+        "to_sura": "الزمر",
+        "to_ayah": 10
+    },
+    {
+        "from_sura": "الزمر",
+        "from_ayah": 11,
+        "to_sura": "الزمر",
+        "to_ayah": 21
+    },
+    {
+        "from_sura": "الزمر",
+        "from_ayah": 22,
+        "to_sura": "الزمر",
+        "to_ayah": 31
+    },
+    {
+        "from_sura": "الزمر",
+        "from_ayah": 32,
+        "to_sura": "الزمر",
+        "to_ayah": 40
+    },
+    {
+        "from_sura": "الزمر",
+        "from_ayah": 41,
+        "to_sura": "الزمر",
+        "to_ayah": 47
+    },
+    {
+        "from_sura": "الزمر",
+        "from_ayah": 48,
+        "to_sura": "الزمر",
+        "to_ayah": 56
+    },
+    {
+        "from_sura": "الزمر",
+        "from_ayah": 57,
+        "to_sura": "الزمر",
+        "to_ayah": 67
+    },
+    {
+        "from_sura": "الزمر",
+        "from_ayah": 68,
+        "to_sura": "الزمر",
+        "to_ayah": 74
+    },
+    {
+        "from_sura": "الزمر",
+        "from_ayah": 75,
+        "to_sura": "غافر",
+        "to_ayah": 7
+    },
+    {
+        "from_sura": "غافر",
+        "from_ayah": 8,
+        "to_sura": "غافر",
+        "to_ayah": 16
+    },
+    {
+        "from_sura": "غافر",
+        "from_ayah": 17,
+        "to_sura": "غافر",
+        "to_ayah": 25
+    },
+    {
+        "from_sura": "غافر",
+        "from_ayah": 26,
+        "to_sura": "غافر",
+        "to_ayah": 33
+    },
+    {
+        "from_sura": "غافر",
+        "from_ayah": 34,
+        "to_sura": "غافر",
+        "to_ayah": 40
+    },
+    {
+        "from_sura": "غافر",
+        "from_ayah": 41,
+        "to_sura": "غافر",
+        "to_ayah": 49
+    },
+    {
+        "from_sura": "غافر",
+        "from_ayah": 50,
+        "to_sura": "غافر",
+        "to_ayah": 58
+    },
+    {
+        "from_sura": "غافر",
+        "from_ayah": 59,
+        "to_sura": "غافر",
+        "to_ayah": 66
+    },
+    {
+        "from_sura": "غافر",
+        "from_ayah": 67,
+        "to_sura": "غافر",
+        "to_ayah": 77
+    },
+    {
+        "from_sura": "غافر",
+        "from_ayah": 78,
+        "to_sura": "غافر",
+        "to_ayah": 85
+    },
+    {
+        "from_sura": "فصلت",
+        "from_ayah": 1,
+        "to_sura": "فصلت",
+        "to_ayah": 11
+    },
+    {
+        "from_sura": "فصلت",
+        "from_ayah": 12,
+        "to_sura": "فصلت",
+        "to_ayah": 20
+    },
+    {
+        "from_sura": "فصلت",
+        "from_ayah": 21,
+        "to_sura": "فصلت",
+        "to_ayah": 29
+    },
+    {
+        "from_sura": "فصلت",
+        "from_ayah": 30,
+        "to_sura": "فصلت",
+        "to_ayah": 38
+    },
+    {
+        "from_sura": "فصلت",
+        "from_ayah": 39,
+        "to_sura": "فصلت",
+        "to_ayah": 46
+    },
+    {
+        "from_sura": "فصلت",
+        "from_ayah": 47,
+        "to_sura": "فصلت",
+        "to_ayah": 54
+    },
+    {
+        "from_sura": "الشورى",
+        "from_ayah": 1,
+        "to_sura": "الشورى",
+        "to_ayah": 10
+    },
+    {
+        "from_sura": "الشورى",
+        "from_ayah": 11,
+        "to_sura": "الشورى",
+        "to_ayah": 15
+    },
+    {
+        "from_sura": "الشورى",
+        "from_ayah": 16,
+        "to_sura": "الشورى",
+        "to_ayah": 22
+    },
+    {
+        "from_sura": "الشورى",
+        "from_ayah": 23,
+        "to_sura": "الشورى",
+        "to_ayah": 31
+    },
+    {
+        "from_sura": "الشورى",
+        "from_ayah": 32,
+        "to_sura": "الشورى",
+        "to_ayah": 44
+    },
+    {
+        "from_sura": "الشورى",
+        "from_ayah": 45,
+        "to_sura": "الشورى",
+        "to_ayah": 51
+    },
+    {
+        "from_sura": "الشورى",
+        "from_ayah": 52,
+        "to_sura": "الزخرف",
+        "to_ayah": 10
+    },
+    {
+        "from_sura": "الزخرف",
+        "from_ayah": 11,
+        "to_sura": "الزخرف",
+        "to_ayah": 22
+    },
+    {
+        "from_sura": "الزخرف",
+        "from_ayah": 23,
+        "to_sura": "الزخرف",
+        "to_ayah": 33
+    },
+    {
+        "from_sura": "الزخرف",
+        "from_ayah": 34,
+        "to_sura": "الزخرف",
+        "to_ayah": 47
+    },
+    {
+        "from_sura": "الزخرف",
+        "from_ayah": 48,
+        "to_sura": "الزخرف",
+        "to_ayah": 60
+    },
+    {
+        "from_sura": "الزخرف",
+        "from_ayah": 61,
+        "to_sura": "الزخرف",
+        "to_ayah": 73
+    },
+    {
+        "from_sura": "الزخرف",
+        "from_ayah": 74,
+        "to_sura": "الزخرف",
+        "to_ayah": 89
+    },
+    {
+        "from_sura": "الدخان",
+        "from_ayah": 1,
+        "to_sura": "الدخان",
+        "to_ayah": 18
+    },
+    {
+        "from_sura": "الدخان",
+        "from_ayah": 19,
+        "to_sura": "الدخان",
+        "to_ayah": 39
+    },
+    {
+        "from_sura": "الدخان",
+        "from_ayah": 40,
+        "to_sura": "الدخان",
+        "to_ayah": 59
+    },
+    {
+        "from_sura": "الجاثية",
+        "from_ayah": 1,
+        "to_sura": "الجاثية",
+        "to_ayah": 13
+    },
+    {
+        "from_sura": "الجاثية",
+        "from_ayah": 14,
+        "to_sura": "الجاثية",
+        "to_ayah": 22
+    },
+    {
+        "from_sura": "الجاثية",
+        "from_ayah": 23,
+        "to_sura": "الجاثية",
+        "to_ayah": 32
+    },
+    {
+        "from_sura": "الجاثية",
+        "from_ayah": 33,
+        "to_sura": "الأحقاف",
+        "to_ayah": 5
+    },
+    {
+        "from_sura": "الأحقاف",
+        "from_ayah": 6,
+        "to_sura": "الأحقاف",
+        "to_ayah": 14
+    },
+    {
+        "from_sura": "الأحقاف",
+        "from_ayah": 15,
+        "to_sura": "الأحقاف",
+        "to_ayah": 20
+    },
+    {
+        "from_sura": "الأحقاف",
+        "from_ayah": 21,
+        "to_sura": "الأحقاف",
+        "to_ayah": 28
+    },
+    {
+        "from_sura": "الأحقاف",
+        "from_ayah": 29,
+        "to_sura": "الأحقاف",
+        "to_ayah": 35
+    },
+    {
+        "from_sura": "محمد",
+        "from_ayah": 1,
+        "to_sura": "محمد",
+        "to_ayah": 11
+    },
+    {
+        "from_sura": "محمد",
+        "from_ayah": 12,
+        "to_sura": "محمد",
+        "to_ayah": 19
+    },
+    {
+        "from_sura": "محمد",
+        "from_ayah": 20,
+        "to_sura": "محمد",
+        "to_ayah": 29
+    },
+    {
+        "from_sura": "محمد",
+        "from_ayah": 30,
+        "to_sura": "محمد",
+        "to_ayah": 38
+    },
+    {
+        "from_sura": "الفتح",
+        "from_ayah": 1,
+        "to_sura": "الفتح",
+        "to_ayah": 9
+    },
+    {
+        "from_sura": "الفتح",
+        "from_ayah": 10,
+        "to_sura": "الفتح",
+        "to_ayah": 15
+    },
+    {
+        "from_sura": "الفتح",
+        "from_ayah": 16,
+        "to_sura": "الفتح",
+        "to_ayah": 23
+    },
+    {
+        "from_sura": "الفتح",
+        "from_ayah": 24,
+        "to_sura": "الفتح",
+        "to_ayah": 28
+    },
+    {
+        "from_sura": "الفتح",
+        "from_ayah": 29,
+        "to_sura": "الحجرات",
+        "to_ayah": 4
+    },
+    {
+        "from_sura": "الحجرات",
+        "from_ayah": 5,
+        "to_sura": "الحجرات",
+        "to_ayah": 11
+    },
+    {
+        "from_sura": "الحجرات",
+        "from_ayah": 12,
+        "to_sura": "الحجرات",
+        "to_ayah": 18
+    },
+    {
+        "from_sura": "ق",
+        "from_ayah": 1,
+        "to_sura": "ق",
+        "to_ayah": 15
+    },
+    {
+        "from_sura": "ق",
+        "from_ayah": 16,
+        "to_sura": "ق",
+        "to_ayah": 35
+    },
+    {
+        "from_sura": "ق",
+        "from_ayah": 36,
+        "to_sura": "الذاريات",
+        "to_ayah": 6
+    },
+    {
+        "from_sura": "الذاريات",
+        "from_ayah": 7,
+        "to_sura": "الذاريات",
+        "to_ayah": 30
+    },
+    {
+        "from_sura": "الذاريات",
+        "from_ayah": 31,
+        "to_sura": "الذاريات",
+        "to_ayah": 51
+    },
+    {
+        "from_sura": "الذاريات",
+        "from_ayah": 52,
+        "to_sura": "الطور",
+        "to_ayah": 14
+    },
+    {
+        "from_sura": "الطور",
+        "from_ayah": 15,
+        "to_sura": "الطور",
+        "to_ayah": 31
+    },
+    {
+        "from_sura": "الطور",
+        "from_ayah": 32,
+        "to_sura": "الطور",
+        "to_ayah": 49
+    },
+    {
+        "from_sura": "النجم",
+        "from_ayah": 1,
+        "to_sura": "النجم",
+        "to_ayah": 26
+    },
+    {
+        "from_sura": "النجم",
+        "from_ayah": 27,
+        "to_sura": "النجم",
+        "to_ayah": 44
+    },
+    {
+        "from_sura": "النجم",
+        "from_ayah": 45,
+        "to_sura": "القمر",
+        "to_ayah": 6
+    },
+    {
+        "from_sura": "القمر",
+        "from_ayah": 7,
+        "to_sura": "القمر",
+        "to_ayah": 27
+    },
+    {
+        "from_sura": "القمر",
+        "from_ayah": 28,
+        "to_sura": "القمر",
+        "to_ayah": 49
+    },
+    {
+        "from_sura": "القمر",
+        "from_ayah": 50,
+        "to_sura": "الرحمٰن",
+        "to_ayah": 18
+    },
+    {
+        "from_sura": "الرحمٰن",
+        "from_ayah": 19,
+        "to_sura": "الرحمٰن",
+        "to_ayah": 41
+    },
+    {
+        "from_sura": "الرحمٰن",
+        "from_ayah": 42,
+        "to_sura": "الرحمٰن",
+        "to_ayah": 69
+    },
+    {
+        "from_sura": "الرحمٰن",
+        "from_ayah": 70,
+        "to_sura": "الواقعة",
+        "to_ayah": 16
+    },
+    {
+        "from_sura": "الواقعة",
+        "from_ayah": 17,
+        "to_sura": "الواقعة",
+        "to_ayah": 50
+    },
+    {
+        "from_sura": "الواقعة",
+        "from_ayah": 51,
+        "to_sura": "الواقعة",
+        "to_ayah": 76
+    },
+    {
+        "from_sura": "الواقعة",
+        "from_ayah": 77,
+        "to_sura": "الحديد",
+        "to_ayah": 3
+    },
+    {
+        "from_sura": "الحديد",
+        "from_ayah": 4,
+        "to_sura": "الحديد",
+        "to_ayah": 11
+    },
+    {
+        "from_sura": "الحديد",
+        "from_ayah": 12,
+        "to_sura": "الحديد",
+        "to_ayah": 18
+    },
+    {
+        "from_sura": "الحديد",
+        "from_ayah": 19,
+        "to_sura": "الحديد",
+        "to_ayah": 24
+    },
+    {
+        "from_sura": "الحديد",
+        "from_ayah": 25,
+        "to_sura": "الحديد",
+        "to_ayah": 29
+    },
+    {
+        "from_sura": "المجادلة",
+        "from_ayah": 1,
+        "to_sura": "المجادلة",
+        "to_ayah": 6
+    },
+    {
+        "from_sura": "المجادلة",
+        "from_ayah": 7,
+        "to_sura": "المجادلة",
+        "to_ayah": 11
+    },
+    {
+        "from_sura": "المجادلة",
+        "from_ayah": 12,
+        "to_sura": "المجادلة",
+        "to_ayah": 21
+    },
+    {
+        "from_sura": "المجادلة",
+        "from_ayah": 22,
+        "to_sura": "الحشر",
+        "to_ayah": 3
+    },
+    {
+        "from_sura": "الحشر",
+        "from_ayah": 4,
+        "to_sura": "الحشر",
+        "to_ayah": 9
+    },
+    {
+        "from_sura": "الحشر",
+        "from_ayah": 10,
+        "to_sura": "الحشر",
+        "to_ayah": 16
+    },
+    {
+        "from_sura": "الحشر",
+        "from_ayah": 17,
+        "to_sura": "الحشر",
+        "to_ayah": 24
+    },
+    {
+        "from_sura": "الممتحنة",
+        "from_ayah": 1,
+        "to_sura": "الممتحنة",
+        "to_ayah": 5
+    },
+    {
+        "from_sura": "الممتحنة",
+        "from_ayah": 6,
+        "to_sura": "الممتحنة",
+        "to_ayah": 11
+    },
+    {
+        "from_sura": "الممتحنة",
+        "from_ayah": 12,
+        "to_sura": "الصف",
+        "to_ayah": 5
+    },
+    {
+        "from_sura": "الصف",
+        "from_ayah": 6,
+        "to_sura": "الصف",
+        "to_ayah": 14
+    },
+    {
+        "from_sura": "الجمعة",
+        "from_ayah": 1,
+        "to_sura": "الجمعة",
+        "to_ayah": 8
+    },
+    {
+        "from_sura": "الجمعة",
+        "from_ayah": 9,
+        "to_sura": "المنافقون",
+        "to_ayah": 4
+    },
+    {
+        "from_sura": "المنافقون",
+        "from_ayah": 5,
+        "to_sura": "المنافقون",
+        "to_ayah": 11
+    },
+    {
+        "from_sura": "التغابن",
+        "from_ayah": 1,
+        "to_sura": "التغابن",
+        "to_ayah": 9
+    },
+    {
+        "from_sura": "التغابن",
+        "from_ayah": 10,
+        "to_sura": "التغابن",
+        "to_ayah": 18
+    },
+    {
+        "from_sura": "الطلاق",
+        "from_ayah": 1,
+        "to_sura": "الطلاق",
+        "to_ayah": 5
+    },
+    {
+        "from_sura": "الطلاق",
+        "from_ayah": 6,
+        "to_sura": "الطلاق",
+        "to_ayah": 12
+    },
+    {
+        "from_sura": "التحريم",
+        "from_ayah": 1,
+        "to_sura": "التحريم",
+        "to_ayah": 7
+    },
+    {
+        "from_sura": "التحريم",
+        "from_ayah": 8,
+        "to_sura": "التحريم",
+        "to_ayah": 12
+    },
+    {
+        "from_sura": "الملك",
+        "from_ayah": 1,
+        "to_sura": "الملك",
+        "to_ayah": 12
+    },
+    {
+        "from_sura": "الملك",
+        "from_ayah": 13,
+        "to_sura": "الملك",
+        "to_ayah": 26
+    },
+    {
+        "from_sura": "الملك",
+        "from_ayah": 27,
+        "to_sura": "القلم",
+        "to_ayah": 16
+    },
+    {
+        "from_sura": "القلم",
+        "from_ayah": 17,
+        "to_sura": "القلم",
+        "to_ayah": 42
+    },
+    {
+        "from_sura": "القلم",
+        "from_ayah": 43,
+        "to_sura": "الحاقة",
+        "to_ayah": 8
+    },
+    {
+        "from_sura": "الحاقة",
+        "from_ayah": 9,
+        "to_sura": "الحاقة",
+        "to_ayah": 35
+    },
+    {
+        "from_sura": "الحاقة",
+        "from_ayah": 36,
+        "to_sura": "المعارج",
+        "to_ayah": 10
+    },
+    {
+        "from_sura": "المعارج",
+        "from_ayah": 11,
+        "to_sura": "المعارج",
+        "to_ayah": 40
+    },
+    {
+        "from_sura": "المعارج",
+        "from_ayah": 41,
+        "to_sura": "نوح",
+        "to_ayah": 10
+    },
+    {
+        "from_sura": "نوح",
+        "from_ayah": 11,
+        "to_sura": "نوح",
+        "to_ayah": 28
+    },
+    {
+        "from_sura": "الجن",
+        "from_ayah": 1,
+        "to_sura": "الجن",
+        "to_ayah": 13
+    },
+    {
+        "from_sura": "الجن",
+        "from_ayah": 14,
+        "to_sura": "الجن",
+        "to_ayah": 28
+    },
+    {
+        "from_sura": "المزمل",
+        "from_ayah": 1,
+        "to_sura": "المزمل",
+        "to_ayah": 19
+    },
+    {
+        "from_sura": "المزمل",
+        "from_ayah": 20,
+        "to_sura": "المدثر",
+        "to_ayah": 18
+    },
+    {
+        "from_sura": "المدثر",
+        "from_ayah": 19,
+        "to_sura": "المدثر",
+        "to_ayah": 47
+    },
+    {
+        "from_sura": "المدثر",
+        "from_ayah": 48,
+        "to_sura": "القيامة",
+        "to_ayah": 19
+    },
+    {
+        "from_sura": "القيامة",
+        "from_ayah": 20,
+        "to_sura": "الإنسان",
+        "to_ayah": 5
+    },
+    {
+        "from_sura": "الإنسان",
+        "from_ayah": 6,
+        "to_sura": "الإنسان",
+        "to_ayah": 25
+    },
+    {
+        "from_sura": "الإنسان",
+        "from_ayah": 26,
+        "to_sura": "المرسلات",
+        "to_ayah": 19
+    },
+    {
+        "from_sura": "المرسلات",
+        "from_ayah": 20,
+        "to_sura": "المرسلات",
+        "to_ayah": 50
+    },
+    {
+        "from_sura": "النبإ",
+        "from_ayah": 1,
+        "to_sura": "النبإ",
+        "to_ayah": 30
+    },
+    {
+        "from_sura": "النبإ",
+        "from_ayah": 31,
+        "to_sura": "النازعات",
+        "to_ayah": 16
+    },
+    {
+        "from_sura": "النازعات",
+        "from_ayah": 17,
+        "to_sura": "النازعات",
+        "to_ayah": 46
+    },
+    {
+        "from_sura": "عبس",
+        "from_ayah": 1,
+        "to_sura": "عبس",
+        "to_ayah": 40
+    },
+    {
+        "from_sura": "عبس",
+        "from_ayah": 41,
+        "to_sura": "التكوير",
+        "to_ayah": 29
+    },
+    {
+        "from_sura": "الانفطار",
+        "from_ayah": 1,
+        "to_sura": "المطففين",
+        "to_ayah": 4
+    },
+    {
+        "from_sura": "المطففين",
+        "from_ayah": 5,
+        "to_sura": "المطففين",
+        "to_ayah": 33
+    },
+    {
+        "from_sura": "المطففين",
+        "from_ayah": 34,
+        "to_sura": "الانشقاق",
+        "to_ayah": 24
+    },
+    {
+        "from_sura": "الانشقاق",
+        "from_ayah": 25,
+        "to_sura": "البروج",
+        "to_ayah": 22
+    },
+    {
+        "from_sura": "الطارق",
+        "from_ayah": 1,
+        "to_sura": "الأعلى",
+        "to_ayah": 10
+    },
+    {
+        "from_sura": "الأعلى",
+        "from_ayah": 11,
+        "to_sura": "الغاشية",
+        "to_ayah": 22
+    },
+    {
+        "from_sura": "الغاشية",
+        "from_ayah": 23,
+        "to_sura": "الفجر",
+        "to_ayah": 22
+    },
+    {
+        "from_sura": "الفجر",
+        "from_ayah": 23,
+        "to_sura": "البلد",
+        "to_ayah": 18
+    },
+    {
+        "from_sura": "البلد",
+        "from_ayah": 19,
+        "to_sura": "الليل",
+        "to_ayah": 9
+    },
+    {
+        "from_sura": "الليل",
+        "from_ayah": 10,
+        "to_sura": "الشرح",
+        "to_ayah": 2
+    },
+    {
+        "from_sura": "الشرح",
+        "from_ayah": 3,
+        "to_sura": "العلق",
+        "to_ayah": 12
+    },
+    {
+        "from_sura": "العلق",
+        "from_ayah": 13,
+        "to_sura": "البينة",
+        "to_ayah": 5
+    },
+    {
+        "from_sura": "البينة",
+        "from_ayah": 6,
+        "to_sura": "العاديات",
+        "to_ayah": 5
+    },
+    {
+        "from_sura": "العاديات",
+        "from_ayah": 6,
+        "to_sura": "التكاثر",
+        "to_ayah": 8
+    },
+    {
+        "from_sura": "العصر",
+        "from_ayah": 1,
+        "to_sura": "الفيل",
+        "to_ayah": 5
+    },
+    {
+        "from_sura": "قريش",
+        "from_ayah": 1,
+        "to_sura": "الكوثر",
+        "to_ayah": 3
+    },
+    {
+        "from_sura": "الكافرون",
+        "from_ayah": 1,
+        "to_sura": "المسد",
+        "to_ayah": 5
+    },
+    {
+        "from_sura": "الإخلاص",
+        "from_ayah": 1,
+        "to_sura": "الناس",
+        "to_ayah": 6
+    }
+]

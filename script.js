@@ -1,17 +1,29 @@
 let selectedSurah = "";let selectedSurahIndex = -1;let currentAyahIndex = -1;
 let method = "surahs";
+
 let ayahs = {};
-fetch('./soar.json')
+if(localStorage.getItem("القرآن")) {
+    ayahs = JSON.parse(localStorage.getItem("القرآن"));
+} else {
+    fetch('./القرآن كتابة/soar.json')
     .then(response => response.json())
     .then(data => {
-        ayahs = data;
+        localStorage.setItem("القرآن", JSON.stringify(data));
+        ayahs = JSON.parse(localStorage.getItem("القرآن"));
     });
+}
+
 let pages = {};
-fetch('./pages.json')
+if(localStorage.getItem("الصفحات")) {
+    pages = JSON.parse(localStorage.getItem("الصفحات"));
+} else {
+    fetch('./القرآن كتابة/pages.json')
     .then(response => response.json())
     .then(data => {
-        pages = data;
+        localStorage.setItem("الصفحات", JSON.stringify(data));
+        pages = JSON.parse(localStorage.getItem("الصفحات"));
     });
+}
 
 // تثبيت القيَم
 let storedValues = JSON.parse(localStorage.getItem("select-values"));
@@ -124,7 +136,7 @@ function backToStart() {
 
 function displayAyah() {
     document.getElementById('aya').style.display = '';
-    document.getElementById('aya').innerText = ayahs[selectedSurah][currentAyahIndex];
+    document.getElementById('aya').innerText = ayahs[selectedSurah][currentAyahIndex].replace("﴿", "").replace("﴾", "");
     document.getElementById('surah-name').innerText = `سورة ${selectedSurah}`;
 }
 
