@@ -56,7 +56,7 @@ body, .cont {
 .colors.cont {
     flex-wrap: wrap;
     flex-direction: row;
-    gap: 10px;
+    gap: 15px;
     justify-content: center;
     max-width: 735px;
 }

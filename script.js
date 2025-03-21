@@ -1,6 +1,7 @@
 let selectedSurah = "";let selectedSurahIndex = -1;let currentAyahIndex = -1;
 let method = "surahs";
 let colorSelector = document.querySelector(".color-container.selector");
+let colors = document.querySelector(".colors");
 
 let ayahs = {};
 if(localStorage.getItem("القرآن")) {
@@ -28,7 +29,7 @@ if(localStorage.getItem("الصفحات")) {
 
 // تثبيت القيَم
 let storedValues = JSON.parse(localStorage.getItem("select-values"));
-if (!storedValues) { // لو مفيش قيم مخزنة، سجل القيم الافتراضية
+if(!storedValues) { // لو مفيش قيم مخزنة، سجل القيم الافتراضية
     storedValues = Array.from(document.querySelectorAll("select, input")).map(item => item.value);
     localStorage.setItem("select-values", JSON.stringify(storedValues));
 } else { // لو فيه قيم مخزنة، هنحدد القيمة في كل قائمة منسدلة
@@ -48,28 +49,34 @@ document.querySelectorAll("select, input").forEach((selectElement, i) => {
 
 // تغيير مكان اسم السورة
 document.querySelector('#surah-name').addEventListener('click', function() {
-  this.classList.toggle('left');
+    this.classList.toggle('left');
 });
 
 // الألوان
 colorSelector.onclick = (eo) => {
-    document.querySelector(".colors").style.display = 'flex';
-
-    document.getElementById('top-buttons').style.display = 'none';
-    document.getElementById('start-test').style.display = 'none';
-    
-    document.querySelectorAll(".soar-method.cont")[0].style.display = 'none';
-    document.querySelectorAll(".pages-method.cont")[0].style.display = 'none';
-    document.querySelectorAll(".ayat-method.cont")[0].style.display = 'none';
+    if(colors.style.display == 'flex') {
+        backToStart();
+    } else {
+        showColors();
+    }
 }
 
 if(!localStorage.getItem("لون الصفحة")) {// تعريف اللون أول مرة
     localStorage.setItem("لون الصفحة", getComputedStyle(document.documentElement).getPropertyValue('--page-color'));
+    document.querySelector(".color-container.selected").classList.remove('selected');
+    
+    // تحديد اللون
+    document.querySelectorAll(".colors .color-container .color").forEach(container => {
+        if(toHex(container.style.backgroundColor) == toHex(localStorage.getItem("لون الصفحة"))) {
+            container.parentNode.classList.add('selected');
+        }
+    });
 } else {// استخدام اللون المخزن
     document.querySelector(".color-container.selected").classList.remove('selected');
     document.documentElement.style.setProperty('--page-color', localStorage.getItem("لون الصفحة"));
+    
+    // تحديد اللون
     document.querySelectorAll(".colors .color-container .color").forEach(container => {
-        console.log(toHex(container.style.backgroundColor), localStorage.getItem("لون الصفحة"));
         if(toHex(container.style.backgroundColor) == toHex(localStorage.getItem("لون الصفحة"))) {
             container.parentNode.classList.add('selected');
         }
@@ -97,16 +104,31 @@ document.querySelector('.colors').onclick = (eo) => {
 }
 
 // الدوال
+function showColors() {
+    colors.style.display = 'flex';
+
+    document.getElementById('top-buttons').style.display = 'none';
+    document.getElementById('start-test').style.display = 'none';
+    
+    document.querySelectorAll(".soar-method.cont")[0].style.display = 'none';
+    document.querySelectorAll(".pages-method.cont")[0].style.display = 'none';
+    document.querySelectorAll(".ayat-method.cont")[0].style.display = 'none';
+}
+
 function toHex(rgbString) {
-    // استخراج الأرقام من النص باستخدام التعبير العادي
-    const match = rgbString.match(/\d+/g);
-    if (!match || match.length !== 3) return null; // التأكد من وجود 3 أرقام
+    if(rgbString.includes("#")) {
+        return rgbString;
+    } else {
+        // استخراج الأرقام من النص باستخدام التعبير العادي
+        const match = rgbString.match(/\d+/g);
+        if(!match || match.length !== 3) return null; // التأكد من وجود 3 أرقام
 
-    // تحويل الأرقام إلى أعداد صحيحة
-    const [r, g, b] = match.map(Number);
+        // تحويل الأرقام إلى أعداد صحيحة
+        const [r, g, b] = match.map(Number);
 
-    // تحويل كل قيمة إلى Hex
-    return "#" + [r, g, b].map(x => x.toString(16).padStart(2, "0")).join("").toUpperCase();
+        // تحويل كل قيمة إلى Hex
+        return "#" + [r, g, b].map(x => x.toString(16).padStart(2, "0")).join("").toUpperCase();
+    }
 }
 
 function get_randomAyah(data, from_key, to_key, from_index = null, to_index = null) {
@@ -126,7 +148,7 @@ function get_randomAyah(data, from_key, to_key, from_index = null, to_index = nu
     let endIndex = keys.indexOf(to_key);
     
     // التحقق من صحة النطاق
-    if (startIndex !== -1 && endIndex !== -1 && (startIndex < endIndex || (startIndex == endIndex && from_index <= to_index))) {
+    if(startIndex !== -1 && endIndex !== -1 && (startIndex < endIndex || (startIndex == endIndex && from_index <= to_index))) {
         // دمج العناصر بين `from_key` و `to_key` مع تحديد مواقعها
         let mergedArray = keys
             .slice(startIndex, endIndex + 1) // احصل على المفاتيح من `from_key` إلى `to_key`
@@ -190,7 +212,7 @@ function backToStart() {
     document.getElementById('buttons-container').style.display = 'none';
     document.getElementById('top-buttons').style.display = 'flex';
     document.getElementById('start-test').style.display = 'flex';
-    document.querySelector(".colors").style.display = 'none';
+    colors.style.display = 'none';
     
     colorSelector.style.display = '';
 
@@ -204,7 +226,7 @@ function displayAyah() {
 }
 
 function nextAyah() {
-    if (currentAyahIndex < ayahs[selectedSurah].length - 1) {
+    if(currentAyahIndex < ayahs[selectedSurah].length - 1) {
         currentAyahIndex++;
     } else {
         selectedSurahIndex++;
@@ -216,7 +238,7 @@ function nextAyah() {
 }
 
 function previousAyah() {
-    if (currentAyahIndex > 0) {
+    if(currentAyahIndex > 0) {
         currentAyahIndex--;
     } else {
         selectedSurahIndex--;
@@ -229,7 +251,7 @@ function previousAyah() {
 
 function activateMethod(activeId) {
     document.querySelectorAll('#top-buttons button').forEach(button => {
-        if (button.id === activeId) {
+        if(button.id === activeId) {
             button.classList.add('active');
             method = activeId;
 
@@ -260,17 +282,17 @@ document.querySelectorAll('#top-buttons button').forEach(button => {
 });
 
 document.addEventListener('keydown', function(event) {
-    if (currentAyahIndex != -1) {
-        if (event.key === 'ArrowRight') {
+    if(currentAyahIndex != -1) {
+        if(event.key === 'ArrowRight') {
             previousAyah();
-        } else if (event.key === 'ArrowLeft') {
+        } else if(event.key === 'ArrowLeft') {
             nextAyah();
         }
     }
 
-    if (event.key === 'Enter') {
+    if(event.key === 'Enter') {
         startTest();
-    } else if (event.key === 'Escape') {
+    } else if(event.key === 'Escape') {
         backToStart();
     }
 });
