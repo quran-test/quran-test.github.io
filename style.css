@@ -7,17 +7,14 @@
     font-style: normal;
 }
 
-/* @font-face {
-    font-family: 'Tajawal';
-    src: url('../fonts/Tajawal/Tajawal-Bold.ttf') format('truetype');
-    font-weight: 700;
-    font-style: normal;
-    } */
-    
-    body, .cont {
-        font-family: 'Tajawal', sans-serif;
-        background-color: #f4f4f4;
-        text-align: center;
+:root {
+    --page-color: #CC4444;
+}
+
+body, .cont {
+    font-family: 'Tajawal', sans-serif;
+    background-color: #f4f4f4;
+    text-align: center;
     padding: 20px;
     display: flex;
     flex-direction: column;
@@ -25,6 +22,47 @@
     justify-content: center;
     margin: 0 auto;
     max-width: 1200px;
+}
+
+.color-container {
+    width: 30px;
+    height: 30px;
+    padding: 3px;
+    border: 1px solid #bbb;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.color-container.selector {
+    position: absolute;
+    top: 10px;
+    left: 14px;
+    display: inline-block;
+}
+
+.color-container.selected {
+    border-color: green;
+}
+
+.color {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    border-radius: 5px;
+    background-color: var(--page-color);
+    transition: 0.3s all;
+}
+
+.colors.cont {
+    flex-wrap: wrap;
+    flex-direction: row;
+    gap: 10px;
+    justify-content: center;
+    max-width: 735px;
+}
+
+.colors.cont .color-container {
+    position: relative;
 }
 
 .cont {
@@ -75,7 +113,7 @@ button {
     min-width: 0; /* يمنع التمدد خارج الحاوية */
     width: 100%; /* عرض الزر يتبع الشبكة */
     padding: 10px 20px; /* المساحة الداخلية */
-    background-color: #007bff;
+    background-color: var(--page-color);
     color: white;
     border: none;
     border-radius: 5px;
@@ -85,10 +123,11 @@ button {
     overflow: hidden; /* يمنع النص من الخروج */
     white-space: nowrap; /* يمنع النص من الانقسام لأسطر */
     font-size: 19px;
+    transition: 0.3s all;
 }
 
-button:hover {
-    background-color: #0056b3;
+button:hover, .color-container:hover .color {
+    filter: brightness(0.9);
 }
 
 button#start-test {
@@ -119,13 +158,13 @@ button#start-test {
 }
 
 #top-buttons button.active {
-    background-color: #007bff;
+    background-color: var(--page-color);
 }
 
 #aya {
     position: relative;
     top: 80px;
-    font-size: 24px;
+    font-size: 30px;
     font-family: 'UthmanicHafs', sans-serif;
     margin-top: 20px;
     padding: 20px;
@@ -159,7 +198,7 @@ button#start-test {
 
 @media (max-width: 400px) {
     #aya {
-        font-size: 20px;
+        font-size: 25px;
     }
 }
 

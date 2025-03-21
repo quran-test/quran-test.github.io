@@ -1,5 +1,6 @@
 let selectedSurah = "";let selectedSurahIndex = -1;let currentAyahIndex = -1;
 let method = "surahs";
+let colorSelector = document.querySelector(".color-container.selector");
 
 let ayahs = {};
 if(localStorage.getItem("القرآن")) {
@@ -50,6 +51,64 @@ document.querySelector('#surah-name').addEventListener('click', function() {
   this.classList.toggle('left');
 });
 
+// الألوان
+colorSelector.onclick = (eo) => {
+    document.querySelector(".colors").style.display = 'flex';
+
+    document.getElementById('top-buttons').style.display = 'none';
+    document.getElementById('start-test').style.display = 'none';
+    
+    document.querySelectorAll(".soar-method.cont")[0].style.display = 'none';
+    document.querySelectorAll(".pages-method.cont")[0].style.display = 'none';
+    document.querySelectorAll(".ayat-method.cont")[0].style.display = 'none';
+}
+
+if(!localStorage.getItem("لون الصفحة")) {// تعريف اللون أول مرة
+    localStorage.setItem("لون الصفحة", getComputedStyle(document.documentElement).getPropertyValue('--page-color'));
+} else {// استخدام اللون المخزن
+    document.querySelector(".color-container.selected").classList.remove('selected');
+    document.documentElement.style.setProperty('--page-color', localStorage.getItem("لون الصفحة"));
+    document.querySelectorAll(".colors .color-container .color").forEach(container => {
+        console.log(toHex(container.style.backgroundColor), localStorage.getItem("لون الصفحة"));
+        if(toHex(container.style.backgroundColor) == toHex(localStorage.getItem("لون الصفحة"))) {
+            container.parentNode.classList.add('selected');
+        }
+    });
+}
+
+document.querySelector('.colors').onclick = (eo) => {
+    if(eo.target.classList.contains('color') || eo.target.classList.contains('color-container')) {
+        document.querySelector(".color-container.selected").classList.remove('selected');
+
+        let color = "";
+        if(eo.target.classList.contains('color')) {
+            color = eo.target.style.backgroundColor;
+            eo.target.parentNode.classList.add('selected');
+        } else if(eo.target.classList.contains('color-container')) {
+            color = eo.target.children[0].style.backgroundColor;
+            eo.target.classList.add('selected');
+        }
+        
+        localStorage.setItem("لون الصفحة", color);
+        document.documentElement.style.setProperty('--page-color', color);
+
+        backToStart();
+    }
+}
+
+// الدوال
+function toHex(rgbString) {
+    // استخراج الأرقام من النص باستخدام التعبير العادي
+    const match = rgbString.match(/\d+/g);
+    if (!match || match.length !== 3) return null; // التأكد من وجود 3 أرقام
+
+    // تحويل الأرقام إلى أعداد صحيحة
+    const [r, g, b] = match.map(Number);
+
+    // تحويل كل قيمة إلى Hex
+    return "#" + [r, g, b].map(x => x.toString(16).padStart(2, "0")).join("").toUpperCase();
+}
+
 function get_randomAyah(data, from_key, to_key, from_index = null, to_index = null) {
     // let data = {
     //     "a": [1, 2, 3, 4],
@@ -87,7 +146,6 @@ function get_randomAyah(data, from_key, to_key, from_index = null, to_index = nu
             });
 
         // اختيار عنصر عشوائي
-        console.log(mergedArray);
         let randomItem = mergedArray[Math.floor(Math.random() * mergedArray.length)];
     
         return { value: randomItem.value, key: randomItem.key, index: randomItem.index };
@@ -120,6 +178,8 @@ function startTest() {
     document.querySelectorAll(".soar-method.cont")[0].style.display = 'none';
     document.querySelectorAll(".pages-method.cont")[0].style.display = 'none';
     document.querySelectorAll(".ayat-method.cont")[0].style.display = 'none';
+
+    colorSelector.style.display = 'none';
 }
 
 function backToStart() {
@@ -130,7 +190,10 @@ function backToStart() {
     document.getElementById('buttons-container').style.display = 'none';
     document.getElementById('top-buttons').style.display = 'flex';
     document.getElementById('start-test').style.display = 'flex';
+    document.querySelector(".colors").style.display = 'none';
     
+    colorSelector.style.display = '';
+
     activateMethod(method);
 }
 
